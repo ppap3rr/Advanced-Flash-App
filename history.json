@@ -1,0 +1,5576 @@
+[
+    {
+        "mode": "Multiplication",
+        "question": "17 x 97",
+        "answer": 1649,
+        "timestamp": "2026-07-16 20:10:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "90 x 85",
+        "answer": 7650,
+        "timestamp": "2026-07-16 20:10:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "88 x 17",
+        "answer": 1496,
+        "timestamp": "2026-07-16 20:10:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "34 x 12",
+        "answer": 408,
+        "timestamp": "2026-07-16 20:10:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "94 x 16",
+        "answer": 1504,
+        "timestamp": "2026-07-16 20:10:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "57 x 36",
+        "answer": 2052,
+        "timestamp": "2026-07-19 14:01:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "81 x 23",
+        "answer": 1863,
+        "timestamp": "2026-07-19 14:01:28"
+    },
+    {
+        "mode": "Division",
+        "question": "10314 \u00f7 27",
+        "answer": 382,
+        "timestamp": "2026-07-19 14:01:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "16 x 89",
+        "answer": 1424,
+        "timestamp": "2026-07-19 14:12:17"
+    },
+    {
+        "mode": "Division",
+        "question": "14922 \u00f7 18",
+        "answer": 829,
+        "timestamp": "2026-07-19 14:12:31"
+    },
+    {
+        "mode": "Division",
+        "question": "37281 \u00f7 51",
+        "answer": 731,
+        "timestamp": "2026-07-19 14:12:39"
+    },
+    {
+        "mode": "Division",
+        "question": "44480 \u00f7 80",
+        "answer": 556,
+        "timestamp": "2026-07-19 14:12:45"
+    },
+    {
+        "mode": "Division",
+        "question": "27000 \u00f7 50",
+        "answer": 540,
+        "timestamp": "2026-07-19 14:12:51"
+    },
+    {
+        "mode": "Division",
+        "question": "80011 \u00f7 89",
+        "answer": 899,
+        "timestamp": "2026-07-19 14:12:57"
+    },
+    {
+        "mode": "Division",
+        "question": "37962 \u00f7 38",
+        "answer": 999,
+        "timestamp": "2026-07-19 14:13:02"
+    },
+    {
+        "mode": "Division",
+        "question": "26956 \u00f7 92",
+        "answer": 293,
+        "timestamp": "2026-07-19 14:13:12"
+    },
+    {
+        "mode": "Division",
+        "question": "33725 \u00f7 71",
+        "answer": 475,
+        "timestamp": "2026-07-19 14:13:18"
+    },
+    {
+        "mode": "Division",
+        "question": "65036 \u00f7 71",
+        "answer": 916,
+        "timestamp": "2026-07-19 14:13:22"
+    },
+    {
+        "mode": "Division",
+        "question": "10098 \u00f7 99",
+        "answer": 102,
+        "timestamp": "2026-07-19 14:13:27"
+    },
+    {
+        "mode": "Division",
+        "question": "29880 \u00f7 72",
+        "answer": 415,
+        "timestamp": "2026-07-19 14:13:31"
+    },
+    {
+        "mode": "Division",
+        "question": "31405 \u00f7 55",
+        "answer": 571,
+        "timestamp": "2026-07-19 14:13:37"
+    },
+    {
+        "mode": "Division",
+        "question": "50940 \u00f7 60",
+        "answer": 849,
+        "timestamp": "2026-07-19 14:13:43"
+    },
+    {
+        "mode": "Division",
+        "question": "72675 \u00f7 85",
+        "answer": 855,
+        "timestamp": "2026-07-19 14:13:49"
+    },
+    {
+        "mode": "Division",
+        "question": "59409 \u00f7 69",
+        "answer": 861,
+        "timestamp": "2026-07-19 14:13:57"
+    },
+    {
+        "mode": "Division",
+        "question": "81028 \u00f7 94",
+        "answer": 862,
+        "timestamp": "2026-07-19 14:14:04"
+    },
+    {
+        "mode": "Division",
+        "question": "10146 \u00f7 19",
+        "answer": 534,
+        "timestamp": "2026-07-19 14:14:11"
+    },
+    {
+        "mode": "Division",
+        "question": "64260 \u00f7 90",
+        "answer": 714,
+        "timestamp": "2026-07-19 14:14:18"
+    },
+    {
+        "mode": "Division",
+        "question": "75985 \u00f7 91",
+        "answer": 835,
+        "timestamp": "2026-07-19 14:14:35"
+    },
+    {
+        "mode": "Division",
+        "question": "33288 \u00f7 76",
+        "answer": 438,
+        "timestamp": "2026-07-19 14:14:40"
+    },
+    {
+        "mode": "Division",
+        "question": "27472 \u00f7 34",
+        "answer": 808,
+        "timestamp": "2026-07-19 14:14:47"
+    },
+    {
+        "mode": "Division",
+        "question": "43680 \u00f7 60",
+        "answer": 728,
+        "timestamp": "2026-07-19 14:14:55"
+    },
+    {
+        "mode": "Division",
+        "question": "32319 \u00f7 81",
+        "answer": 399,
+        "timestamp": "2026-07-19 14:15:04"
+    },
+    {
+        "mode": "Division",
+        "question": "12002 \u00f7 17",
+        "answer": 706,
+        "timestamp": "2026-07-19 14:15:10"
+    },
+    {
+        "mode": "Division",
+        "question": "53592 \u00f7 66",
+        "answer": 812,
+        "timestamp": "2026-07-19 14:15:15"
+    },
+    {
+        "mode": "Division",
+        "question": "22755 \u00f7 41",
+        "answer": 555,
+        "timestamp": "2026-07-19 14:15:22"
+    },
+    {
+        "mode": "Division",
+        "question": "47250 \u00f7 54",
+        "answer": 875,
+        "timestamp": "2026-07-19 14:15:28"
+    },
+    {
+        "mode": "Division",
+        "question": "29326 \u00f7 86",
+        "answer": 341,
+        "timestamp": "2026-07-19 14:15:43"
+    },
+    {
+        "mode": "Division",
+        "question": "45687 \u00f7 97",
+        "answer": 471,
+        "timestamp": "2026-07-19 14:15:48"
+    },
+    {
+        "mode": "Division",
+        "question": "17568 \u00f7 72",
+        "answer": 244,
+        "timestamp": "2026-07-19 14:15:54"
+    },
+    {
+        "mode": "Division",
+        "question": "55968 \u00f7 96",
+        "answer": 583,
+        "timestamp": "2026-07-19 14:18:41"
+    },
+    {
+        "mode": "Division",
+        "question": "10260 \u00f7 30",
+        "answer": 342,
+        "timestamp": "2026-07-19 14:18:47"
+    },
+    {
+        "mode": "Division",
+        "question": "10092 \u00f7 12",
+        "answer": 841,
+        "timestamp": "2026-07-19 14:18:53"
+    },
+    {
+        "mode": "Division",
+        "question": "22494 \u00f7 46",
+        "answer": 489,
+        "timestamp": "2026-07-19 14:18:58"
+    },
+    {
+        "mode": "Division",
+        "question": "62682 \u00f7 93",
+        "answer": 674,
+        "timestamp": "2026-07-19 14:19:06"
+    },
+    {
+        "mode": "Division",
+        "question": "56744 \u00f7 82",
+        "answer": 692,
+        "timestamp": "2026-07-19 14:19:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "80 x 23",
+        "answer": 1840,
+        "timestamp": "2026-07-19 16:01:58"
+    },
+    {
+        "mode": "Division",
+        "question": "19032 \u00f7 24",
+        "answer": 793,
+        "timestamp": "2026-07-19 16:02:10"
+    },
+    {
+        "mode": "Division",
+        "question": "27094 \u00f7 46",
+        "answer": 589,
+        "timestamp": "2026-07-19 16:02:17"
+    },
+    {
+        "mode": "Division",
+        "question": "12210 \u00f7 37",
+        "answer": 330,
+        "timestamp": "2026-07-19 16:02:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "54 x 89",
+        "answer": 4806,
+        "timestamp": "2026-07-21 14:06:55"
+    },
+    {
+        "mode": "Division",
+        "question": "72996 \u00f7 948",
+        "answer": 77,
+        "timestamp": "2026-07-21 14:07:07"
+    },
+    {
+        "mode": "Division",
+        "question": "24017 \u00f7 329",
+        "answer": 73,
+        "timestamp": "2026-07-21 14:07:11"
+    },
+    {
+        "mode": "Division",
+        "question": "19200 \u00f7 960",
+        "answer": 20,
+        "timestamp": "2026-07-21 14:07:16"
+    },
+    {
+        "mode": "Division",
+        "question": "50148 \u00f7 796",
+        "answer": 63,
+        "timestamp": "2026-07-21 14:07:23"
+    },
+    {
+        "mode": "Division",
+        "question": "17670 \u00f7 186",
+        "answer": 95,
+        "timestamp": "2026-07-21 14:07:28"
+    },
+    {
+        "mode": "Division",
+        "question": "58638 \u00f7 674",
+        "answer": 87,
+        "timestamp": "2026-07-21 14:07:32"
+    },
+    {
+        "mode": "Division",
+        "question": "13902 \u00f7 331",
+        "answer": 42,
+        "timestamp": "2026-07-21 14:07:38"
+    },
+    {
+        "mode": "Division",
+        "question": "47012 \u00f7 644",
+        "answer": 73,
+        "timestamp": "2026-07-21 14:07:42"
+    },
+    {
+        "mode": "Division",
+        "question": "24518 \u00f7 533",
+        "answer": 46,
+        "timestamp": "2026-07-21 14:07:45"
+    },
+    {
+        "mode": "Division",
+        "question": "29442 \u00f7 701",
+        "answer": 42,
+        "timestamp": "2026-07-21 14:07:49"
+    },
+    {
+        "mode": "Division",
+        "question": "19095 \u00f7 285",
+        "answer": 67,
+        "timestamp": "2026-07-21 14:07:52"
+    },
+    {
+        "mode": "Division",
+        "question": "21584 \u00f7 284",
+        "answer": 76,
+        "timestamp": "2026-07-21 14:07:59"
+    },
+    {
+        "mode": "Division",
+        "question": "33400 \u00f7 668",
+        "answer": 50,
+        "timestamp": "2026-07-21 14:08:07"
+    },
+    {
+        "mode": "Division",
+        "question": "35360 \u00f7 544",
+        "answer": 65,
+        "timestamp": "2026-07-21 14:08:11"
+    },
+    {
+        "mode": "Division",
+        "question": "26026 \u00f7 338",
+        "answer": 77,
+        "timestamp": "2026-07-21 14:08:15"
+    },
+    {
+        "mode": "Division",
+        "question": "41040 \u00f7 684",
+        "answer": 60,
+        "timestamp": "2026-07-21 14:08:20"
+    },
+    {
+        "mode": "Division",
+        "question": "55275 \u00f7 825",
+        "answer": 67,
+        "timestamp": "2026-07-21 14:08:24"
+    },
+    {
+        "mode": "Division",
+        "question": "19546 \u00f7 337",
+        "answer": 58,
+        "timestamp": "2026-07-21 14:08:32"
+    },
+    {
+        "mode": "Division",
+        "question": "27264 \u00f7 284",
+        "answer": 96,
+        "timestamp": "2026-07-21 14:08:37"
+    },
+    {
+        "mode": "Division",
+        "question": "16244 \u00f7 262",
+        "answer": 62,
+        "timestamp": "2026-07-21 14:08:41"
+    },
+    {
+        "mode": "Division",
+        "question": "26754 \u00f7 546",
+        "answer": 49,
+        "timestamp": "2026-07-21 14:08:45"
+    },
+    {
+        "mode": "Division",
+        "question": "46332 \u00f7 468",
+        "answer": 99,
+        "timestamp": "2026-07-21 14:08:49"
+    },
+    {
+        "mode": "Division",
+        "question": "47595 \u00f7 835",
+        "answer": 57,
+        "timestamp": "2026-07-21 14:08:53"
+    },
+    {
+        "mode": "Division",
+        "question": "42001 \u00f7 433",
+        "answer": 97,
+        "timestamp": "2026-07-21 14:08:58"
+    },
+    {
+        "mode": "Division",
+        "question": "48900 \u00f7 652",
+        "answer": 75,
+        "timestamp": "2026-07-21 14:09:02"
+    },
+    {
+        "mode": "Division",
+        "question": "63147 \u00f7 651",
+        "answer": 97,
+        "timestamp": "2026-07-21 14:09:07"
+    },
+    {
+        "mode": "Division",
+        "question": "42525 \u00f7 675",
+        "answer": 63,
+        "timestamp": "2026-07-21 14:09:11"
+    },
+    {
+        "mode": "Division",
+        "question": "52836 \u00f7 777",
+        "answer": 68,
+        "timestamp": "2026-07-21 14:09:15"
+    },
+    {
+        "mode": "Division",
+        "question": "22072 \u00f7 712",
+        "answer": 31,
+        "timestamp": "2026-07-21 14:09:19"
+    },
+    {
+        "mode": "Division",
+        "question": "32246 \u00f7 701",
+        "answer": 46,
+        "timestamp": "2026-07-21 14:09:23"
+    },
+    {
+        "mode": "Division",
+        "question": "18800 \u00f7 200",
+        "answer": 94,
+        "timestamp": "2026-07-21 14:09:27"
+    },
+    {
+        "mode": "Division",
+        "question": "52920 \u00f7 882",
+        "answer": 60,
+        "timestamp": "2026-07-21 14:09:31"
+    },
+    {
+        "mode": "Division",
+        "question": "73621 \u00f7 887",
+        "answer": 83,
+        "timestamp": "2026-07-21 14:09:36"
+    },
+    {
+        "mode": "Division",
+        "question": "12354 \u00f7 142",
+        "answer": 87,
+        "timestamp": "2026-07-21 14:09:40"
+    },
+    {
+        "mode": "Division",
+        "question": "56883 \u00f7 849",
+        "answer": 67,
+        "timestamp": "2026-07-21 14:09:44"
+    },
+    {
+        "mode": "Division",
+        "question": "41202 \u00f7 654",
+        "answer": 63,
+        "timestamp": "2026-07-21 14:09:47"
+    },
+    {
+        "mode": "Division",
+        "question": "52839 \u00f7 927",
+        "answer": 57,
+        "timestamp": "2026-07-21 14:09:52"
+    },
+    {
+        "mode": "Division",
+        "question": "14304 \u00f7 894",
+        "answer": 16,
+        "timestamp": "2026-07-21 14:09:55"
+    },
+    {
+        "mode": "Division",
+        "question": "26100 \u00f7 435",
+        "answer": 60,
+        "timestamp": "2026-07-21 14:09:59"
+    },
+    {
+        "mode": "Division",
+        "question": "14280 \u00f7 476",
+        "answer": 30,
+        "timestamp": "2026-07-21 14:10:05"
+    },
+    {
+        "mode": "Division",
+        "question": "14752 \u00f7 922",
+        "answer": 16,
+        "timestamp": "2026-07-21 14:10:06"
+    },
+    {
+        "mode": "Division",
+        "question": "31692 \u00f7 556",
+        "answer": 57,
+        "timestamp": "2026-07-21 14:10:10"
+    },
+    {
+        "mode": "Division",
+        "question": "22339 \u00f7 251",
+        "answer": 89,
+        "timestamp": "2026-07-21 14:10:14"
+    },
+    {
+        "mode": "Division",
+        "question": "39284 \u00f7 427",
+        "answer": 92,
+        "timestamp": "2026-07-21 14:10:19"
+    },
+    {
+        "mode": "Division",
+        "question": "60480 \u00f7 960",
+        "answer": 63,
+        "timestamp": "2026-07-21 14:10:23"
+    },
+    {
+        "mode": "Division",
+        "question": "23306 \u00f7 542",
+        "answer": 43,
+        "timestamp": "2026-07-21 14:10:28"
+    },
+    {
+        "mode": "Division",
+        "question": "73492 \u00f7 967",
+        "answer": 76,
+        "timestamp": "2026-07-21 14:10:32"
+    },
+    {
+        "mode": "Division",
+        "question": "43992 \u00f7 846",
+        "answer": 52,
+        "timestamp": "2026-07-21 14:10:46"
+    },
+    {
+        "mode": "Division",
+        "question": "21420 \u00f7 630",
+        "answer": 34,
+        "timestamp": "2026-07-21 14:10:50"
+    },
+    {
+        "mode": "Division",
+        "question": "27600 \u00f7 400",
+        "answer": 69,
+        "timestamp": "2026-07-21 14:10:54"
+    },
+    {
+        "mode": "Division",
+        "question": "15224 \u00f7 346",
+        "answer": 44,
+        "timestamp": "2026-07-21 14:10:59"
+    },
+    {
+        "mode": "Division",
+        "question": "40902 \u00f7 802",
+        "answer": 51,
+        "timestamp": "2026-07-21 14:11:03"
+    },
+    {
+        "mode": "Division",
+        "question": "24648 \u00f7 948",
+        "answer": 26,
+        "timestamp": "2026-07-21 14:11:09"
+    },
+    {
+        "mode": "Division",
+        "question": "38537 \u00f7 433",
+        "answer": 89,
+        "timestamp": "2026-07-21 14:11:13"
+    },
+    {
+        "mode": "Division",
+        "question": "40238 \u00f7 682",
+        "answer": 59,
+        "timestamp": "2026-07-21 14:11:17"
+    },
+    {
+        "mode": "Division",
+        "question": "16926 \u00f7 806",
+        "answer": 21,
+        "timestamp": "2026-07-21 14:11:22"
+    },
+    {
+        "mode": "Division",
+        "question": "22134 \u00f7 238",
+        "answer": 93,
+        "timestamp": "2026-07-21 14:11:26"
+    },
+    {
+        "mode": "Division",
+        "question": "30082 \u00f7 338",
+        "answer": 89,
+        "timestamp": "2026-07-21 14:11:30"
+    },
+    {
+        "mode": "Division",
+        "question": "23320 \u00f7 440",
+        "answer": 53,
+        "timestamp": "2026-07-21 14:11:36"
+    },
+    {
+        "mode": "Division",
+        "question": "13617 \u00f7 801",
+        "answer": 17,
+        "timestamp": "2026-07-21 14:11:41"
+    },
+    {
+        "mode": "Division",
+        "question": "19251 \u00f7 837",
+        "answer": 23,
+        "timestamp": "2026-07-21 14:11:49"
+    },
+    {
+        "mode": "Division",
+        "question": "23068 \u00f7 292",
+        "answer": 79,
+        "timestamp": "2026-07-21 14:11:53"
+    },
+    {
+        "mode": "Division",
+        "question": "11400 \u00f7 285",
+        "answer": 40,
+        "timestamp": "2026-07-21 14:11:58"
+    },
+    {
+        "mode": "Division",
+        "question": "26190 \u00f7 485",
+        "answer": 54,
+        "timestamp": "2026-07-21 14:12:02"
+    },
+    {
+        "mode": "Division",
+        "question": "28329 \u00f7 497",
+        "answer": 57,
+        "timestamp": "2026-07-21 14:12:07"
+    },
+    {
+        "mode": "Division",
+        "question": "22516 \u00f7 866",
+        "answer": 26,
+        "timestamp": "2026-07-21 14:12:11"
+    },
+    {
+        "mode": "Division",
+        "question": "44772 \u00f7 861",
+        "answer": 52,
+        "timestamp": "2026-07-21 14:12:16"
+    },
+    {
+        "mode": "Division",
+        "question": "17290 \u00f7 190",
+        "answer": 91,
+        "timestamp": "2026-07-21 14:12:20"
+    },
+    {
+        "mode": "Division",
+        "question": "78960 \u00f7 987",
+        "answer": 80,
+        "timestamp": "2026-07-21 14:12:25"
+    },
+    {
+        "mode": "Division",
+        "question": "39688 \u00f7 451",
+        "answer": 88,
+        "timestamp": "2026-07-21 14:12:29"
+    },
+    {
+        "mode": "Division",
+        "question": "45080 \u00f7 490",
+        "answer": 92,
+        "timestamp": "2026-07-21 14:12:34"
+    },
+    {
+        "mode": "Division",
+        "question": "85885 \u00f7 965",
+        "answer": 89,
+        "timestamp": "2026-07-21 14:12:38"
+    },
+    {
+        "mode": "Division",
+        "question": "31096 \u00f7 338",
+        "answer": 92,
+        "timestamp": "2026-07-21 14:12:43"
+    },
+    {
+        "mode": "Division",
+        "question": "39616 \u00f7 619",
+        "answer": 64,
+        "timestamp": "2026-07-21 14:12:48"
+    },
+    {
+        "mode": "Division",
+        "question": "34997 \u00f7 443",
+        "answer": 79,
+        "timestamp": "2026-07-21 14:12:52"
+    },
+    {
+        "mode": "Division",
+        "question": "24128 \u00f7 377",
+        "answer": 64,
+        "timestamp": "2026-07-21 14:12:57"
+    },
+    {
+        "mode": "Division",
+        "question": "78056 \u00f7 887",
+        "answer": 88,
+        "timestamp": "2026-07-21 14:13:01"
+    },
+    {
+        "mode": "Division",
+        "question": "16492 \u00f7 532",
+        "answer": 31,
+        "timestamp": "2026-07-21 14:13:08"
+    },
+    {
+        "mode": "Division",
+        "question": "20076 \u00f7 239",
+        "answer": 84,
+        "timestamp": "2026-07-21 14:13:13"
+    },
+    {
+        "mode": "Division",
+        "question": "17480 \u00f7 874",
+        "answer": 20,
+        "timestamp": "2026-07-21 14:13:20"
+    },
+    {
+        "mode": "Division",
+        "question": "19440 \u00f7 360",
+        "answer": 54,
+        "timestamp": "2026-07-21 14:13:29"
+    },
+    {
+        "mode": "Division",
+        "question": "17985 \u00f7 545",
+        "answer": 33,
+        "timestamp": "2026-07-21 14:13:36"
+    },
+    {
+        "mode": "Division",
+        "question": "74860 \u00f7 788",
+        "answer": 95,
+        "timestamp": "2026-07-21 14:13:47"
+    },
+    {
+        "mode": "Division",
+        "question": "14162 \u00f7 194",
+        "answer": 73,
+        "timestamp": "2026-07-21 14:13:52"
+    },
+    {
+        "mode": "Division",
+        "question": "27948 \u00f7 548",
+        "answer": 51,
+        "timestamp": "2026-07-21 14:14:01"
+    },
+    {
+        "mode": "Division",
+        "question": "15678 \u00f7 234",
+        "answer": 67,
+        "timestamp": "2026-07-21 14:14:05"
+    },
+    {
+        "mode": "Division",
+        "question": "24651 \u00f7 249",
+        "answer": 99,
+        "timestamp": "2026-07-21 14:14:20"
+    },
+    {
+        "mode": "Division",
+        "question": "27634 \u00f7 337",
+        "answer": 82,
+        "timestamp": "2026-07-21 14:14:28"
+    },
+    {
+        "mode": "Division",
+        "question": "29328 \u00f7 376",
+        "answer": 78,
+        "timestamp": "2026-07-21 14:14:32"
+    },
+    {
+        "mode": "Division",
+        "question": "16410 \u00f7 547",
+        "answer": 30,
+        "timestamp": "2026-07-21 14:14:38"
+    },
+    {
+        "mode": "Division",
+        "question": "61578 \u00f7 622",
+        "answer": 99,
+        "timestamp": "2026-07-21 14:14:42"
+    },
+    {
+        "mode": "Division",
+        "question": "35448 \u00f7 422",
+        "answer": 84,
+        "timestamp": "2026-07-21 14:14:48"
+    },
+    {
+        "mode": "Division",
+        "question": "11136 \u00f7 174",
+        "answer": 64,
+        "timestamp": "2026-07-21 14:14:52"
+    },
+    {
+        "mode": "Division",
+        "question": "11232 \u00f7 864",
+        "answer": 13,
+        "timestamp": "2026-07-21 14:14:58"
+    },
+    {
+        "mode": "Division",
+        "question": "22780 \u00f7 335",
+        "answer": 68,
+        "timestamp": "2026-07-21 14:15:02"
+    },
+    {
+        "mode": "Division",
+        "question": "13288 \u00f7 604",
+        "answer": 22,
+        "timestamp": "2026-07-21 14:15:12"
+    },
+    {
+        "mode": "Division",
+        "question": "30504 \u00f7 984",
+        "answer": 31,
+        "timestamp": "2026-07-21 14:15:15"
+    },
+    {
+        "mode": "Division",
+        "question": "65638 \u00f7 887",
+        "answer": 74,
+        "timestamp": "2026-07-21 14:15:19"
+    },
+    {
+        "mode": "Division",
+        "question": "59841 \u00f7 981",
+        "answer": 61,
+        "timestamp": "2026-07-21 14:15:23"
+    },
+    {
+        "mode": "Division",
+        "question": "51183 \u00f7 517",
+        "answer": 99,
+        "timestamp": "2026-07-21 14:15:27"
+    },
+    {
+        "mode": "Division",
+        "question": "12390 \u00f7 885",
+        "answer": 14,
+        "timestamp": "2026-07-21 14:15:31"
+    },
+    {
+        "mode": "Division",
+        "question": "14885 \u00f7 229",
+        "answer": 65,
+        "timestamp": "2026-07-21 14:15:35"
+    },
+    {
+        "mode": "Division",
+        "question": "13760 \u00f7 160",
+        "answer": 86,
+        "timestamp": "2026-07-21 14:15:39"
+    },
+    {
+        "mode": "Division",
+        "question": "14384 \u00f7 496",
+        "answer": 29,
+        "timestamp": "2026-07-21 14:15:44"
+    },
+    {
+        "mode": "Division",
+        "question": "13258 \u00f7 947",
+        "answer": 14,
+        "timestamp": "2026-07-21 14:15:48"
+    },
+    {
+        "mode": "Division",
+        "question": "49368 \u00f7 561",
+        "answer": 88,
+        "timestamp": "2026-07-21 14:15:51"
+    },
+    {
+        "mode": "Division",
+        "question": "23352 \u00f7 417",
+        "answer": 56,
+        "timestamp": "2026-07-21 14:15:52"
+    },
+    {
+        "mode": "Division",
+        "question": "15774 \u00f7 478",
+        "answer": 33,
+        "timestamp": "2026-07-21 14:15:57"
+    },
+    {
+        "mode": "Division",
+        "question": "35713 \u00f7 503",
+        "answer": 71,
+        "timestamp": "2026-07-21 14:16:03"
+    },
+    {
+        "mode": "Division",
+        "question": "68541 \u00f7 737",
+        "answer": 93,
+        "timestamp": "2026-07-21 14:16:07"
+    },
+    {
+        "mode": "Division",
+        "question": "47628 \u00f7 972",
+        "answer": 49,
+        "timestamp": "2026-07-21 14:16:11"
+    },
+    {
+        "mode": "Division",
+        "question": "38720 \u00f7 968",
+        "answer": 40,
+        "timestamp": "2026-07-21 14:16:16"
+    },
+    {
+        "mode": "Division",
+        "question": "38060 \u00f7 865",
+        "answer": 44,
+        "timestamp": "2026-07-21 14:16:19"
+    },
+    {
+        "mode": "Division",
+        "question": "37802 \u00f7 461",
+        "answer": 82,
+        "timestamp": "2026-07-21 14:16:24"
+    },
+    {
+        "mode": "Division",
+        "question": "82814 \u00f7 881",
+        "answer": 94,
+        "timestamp": "2026-07-21 14:16:29"
+    },
+    {
+        "mode": "Division",
+        "question": "43460 \u00f7 530",
+        "answer": 82,
+        "timestamp": "2026-07-21 14:16:33"
+    },
+    {
+        "mode": "Division",
+        "question": "58149 \u00f7 639",
+        "answer": 91,
+        "timestamp": "2026-07-21 14:16:36"
+    },
+    {
+        "mode": "Division",
+        "question": "18675 \u00f7 225",
+        "answer": 83,
+        "timestamp": "2026-07-21 14:16:40"
+    },
+    {
+        "mode": "Division",
+        "question": "27000 \u00f7 360",
+        "answer": 75,
+        "timestamp": "2026-07-21 14:16:47"
+    },
+    {
+        "mode": "Division",
+        "question": "15312 \u00f7 957",
+        "answer": 16,
+        "timestamp": "2026-07-21 14:16:52"
+    },
+    {
+        "mode": "Division",
+        "question": "33165 \u00f7 335",
+        "answer": 99,
+        "timestamp": "2026-07-21 14:16:55"
+    },
+    {
+        "mode": "Division",
+        "question": "46371 \u00f7 533",
+        "answer": 87,
+        "timestamp": "2026-07-21 14:17:00"
+    },
+    {
+        "mode": "Division",
+        "question": "15792 \u00f7 376",
+        "answer": 42,
+        "timestamp": "2026-07-21 14:17:04"
+    },
+    {
+        "mode": "Division",
+        "question": "41454 \u00f7 882",
+        "answer": 47,
+        "timestamp": "2026-07-21 14:17:08"
+    },
+    {
+        "mode": "Division",
+        "question": "13984 \u00f7 736",
+        "answer": 19,
+        "timestamp": "2026-07-21 14:17:12"
+    },
+    {
+        "mode": "Division",
+        "question": "18186 \u00f7 433",
+        "answer": 42,
+        "timestamp": "2026-07-21 14:17:17"
+    },
+    {
+        "mode": "Division",
+        "question": "10257 \u00f7 263",
+        "answer": 39,
+        "timestamp": "2026-07-21 14:17:20"
+    },
+    {
+        "mode": "Division",
+        "question": "18624 \u00f7 291",
+        "answer": 64,
+        "timestamp": "2026-07-21 14:17:24"
+    },
+    {
+        "mode": "Division",
+        "question": "31080 \u00f7 840",
+        "answer": 37,
+        "timestamp": "2026-07-21 14:17:29"
+    },
+    {
+        "mode": "Division",
+        "question": "10251 \u00f7 603",
+        "answer": 17,
+        "timestamp": "2026-07-21 14:17:34"
+    },
+    {
+        "mode": "Division",
+        "question": "27390 \u00f7 498",
+        "answer": 55,
+        "timestamp": "2026-07-21 14:17:37"
+    },
+    {
+        "mode": "Division",
+        "question": "27180 \u00f7 604",
+        "answer": 45,
+        "timestamp": "2026-07-21 14:17:42"
+    },
+    {
+        "mode": "Division",
+        "question": "26291 \u00f7 431",
+        "answer": 61,
+        "timestamp": "2026-07-21 14:17:47"
+    },
+    {
+        "mode": "Division",
+        "question": "13464 \u00f7 187",
+        "answer": 72,
+        "timestamp": "2026-07-21 14:17:59"
+    },
+    {
+        "mode": "Division",
+        "question": "51414 \u00f7 902",
+        "answer": 57,
+        "timestamp": "2026-07-21 14:18:04"
+    },
+    {
+        "mode": "Division",
+        "question": "23896 \u00f7 412",
+        "answer": 58,
+        "timestamp": "2026-07-21 14:18:08"
+    },
+    {
+        "mode": "Division",
+        "question": "20382 \u00f7 237",
+        "answer": 86,
+        "timestamp": "2026-07-21 14:18:12"
+    },
+    {
+        "mode": "Division",
+        "question": "20905 \u00f7 565",
+        "answer": 37,
+        "timestamp": "2026-07-21 14:18:17"
+    },
+    {
+        "mode": "Division",
+        "question": "13224 \u00f7 348",
+        "answer": 38,
+        "timestamp": "2026-07-21 14:18:21"
+    },
+    {
+        "mode": "Division",
+        "question": "27080 \u00f7 677",
+        "answer": 40,
+        "timestamp": "2026-07-21 14:18:25"
+    },
+    {
+        "mode": "Division",
+        "question": "31872 \u00f7 498",
+        "answer": 64,
+        "timestamp": "2026-07-21 14:18:29"
+    },
+    {
+        "mode": "Division",
+        "question": "41820 \u00f7 492",
+        "answer": 85,
+        "timestamp": "2026-07-21 14:18:33"
+    },
+    {
+        "mode": "Division",
+        "question": "45916 \u00f7 883",
+        "answer": 52,
+        "timestamp": "2026-07-21 14:18:35"
+    },
+    {
+        "mode": "Division",
+        "question": "43152 \u00f7 744",
+        "answer": 58,
+        "timestamp": "2026-07-21 14:18:39"
+    },
+    {
+        "mode": "Division",
+        "question": "31525 \u00f7 325",
+        "answer": 97,
+        "timestamp": "2026-07-21 14:18:43"
+    },
+    {
+        "mode": "Division",
+        "question": "15799 \u00f7 259",
+        "answer": 61,
+        "timestamp": "2026-07-21 14:18:49"
+    },
+    {
+        "mode": "Division",
+        "question": "38368 \u00f7 436",
+        "answer": 88,
+        "timestamp": "2026-07-21 14:18:53"
+    },
+    {
+        "mode": "Division",
+        "question": "25704 \u00f7 306",
+        "answer": 84,
+        "timestamp": "2026-07-21 14:18:59"
+    },
+    {
+        "mode": "Division",
+        "question": "29100 \u00f7 300",
+        "answer": 97,
+        "timestamp": "2026-07-21 14:19:03"
+    },
+    {
+        "mode": "Division",
+        "question": "17574 \u00f7 606",
+        "answer": 29,
+        "timestamp": "2026-07-21 14:21:05"
+    },
+    {
+        "mode": "Division",
+        "question": "44880 \u00f7 528",
+        "answer": 85,
+        "timestamp": "2026-07-21 14:21:24"
+    },
+    {
+        "mode": "Division",
+        "question": "26455 \u00f7 715",
+        "answer": 37,
+        "timestamp": "2026-07-21 14:21:28"
+    },
+    {
+        "mode": "Division",
+        "question": "19194 \u00f7 914",
+        "answer": 21,
+        "timestamp": "2026-07-21 14:21:32"
+    },
+    {
+        "mode": "Division",
+        "question": "11776 \u00f7 256",
+        "answer": 46,
+        "timestamp": "2026-07-21 14:21:35"
+    },
+    {
+        "mode": "Division",
+        "question": "53235 \u00f7 585",
+        "answer": 91,
+        "timestamp": "2026-07-21 14:21:39"
+    },
+    {
+        "mode": "Division",
+        "question": "56784 \u00f7 676",
+        "answer": 84,
+        "timestamp": "2026-07-21 14:21:43"
+    },
+    {
+        "mode": "Division",
+        "question": "10923 \u00f7 993",
+        "answer": 11,
+        "timestamp": "2026-07-21 14:21:47"
+    },
+    {
+        "mode": "Division",
+        "question": "33496 \u00f7 632",
+        "answer": 53,
+        "timestamp": "2026-07-21 14:21:51"
+    },
+    {
+        "mode": "Division",
+        "question": "39688 \u00f7 451",
+        "answer": 88,
+        "timestamp": "2026-07-21 14:21:54"
+    },
+    {
+        "mode": "Division",
+        "question": "16810 \u00f7 205",
+        "answer": 82,
+        "timestamp": "2026-07-21 14:21:58"
+    },
+    {
+        "mode": "Division",
+        "question": "27750 \u00f7 925",
+        "answer": 30,
+        "timestamp": "2026-07-21 14:22:04"
+    },
+    {
+        "mode": "Division",
+        "question": "10030 \u00f7 170",
+        "answer": 59,
+        "timestamp": "2026-07-21 14:22:08"
+    },
+    {
+        "mode": "Division",
+        "question": "33218 \u00f7 977",
+        "answer": 34,
+        "timestamp": "2026-07-21 14:22:12"
+    },
+    {
+        "mode": "Division",
+        "question": "24928 \u00f7 656",
+        "answer": 38,
+        "timestamp": "2026-07-21 14:22:16"
+    },
+    {
+        "mode": "Division",
+        "question": "20280 \u00f7 520",
+        "answer": 39,
+        "timestamp": "2026-07-21 14:22:20"
+    },
+    {
+        "mode": "Division",
+        "question": "10751 \u00f7 827",
+        "answer": 13,
+        "timestamp": "2026-07-21 14:22:24"
+    },
+    {
+        "mode": "Division",
+        "question": "13082 \u00f7 211",
+        "answer": 62,
+        "timestamp": "2026-07-21 14:22:27"
+    },
+    {
+        "mode": "Division",
+        "question": "74655 \u00f7 945",
+        "answer": 79,
+        "timestamp": "2026-07-21 14:22:31"
+    },
+    {
+        "mode": "Division",
+        "question": "25699 \u00f7 829",
+        "answer": 31,
+        "timestamp": "2026-07-21 14:22:36"
+    },
+    {
+        "mode": "Division",
+        "question": "17342 \u00f7 377",
+        "answer": 46,
+        "timestamp": "2026-07-21 14:22:40"
+    },
+    {
+        "mode": "Division",
+        "question": "19824 \u00f7 826",
+        "answer": 24,
+        "timestamp": "2026-07-21 14:22:44"
+    },
+    {
+        "mode": "Division",
+        "question": "57112 \u00f7 649",
+        "answer": 88,
+        "timestamp": "2026-07-21 14:22:47"
+    },
+    {
+        "mode": "Division",
+        "question": "25929 \u00f7 603",
+        "answer": 43,
+        "timestamp": "2026-07-21 14:22:51"
+    },
+    {
+        "mode": "Division",
+        "question": "18688 \u00f7 256",
+        "answer": 73,
+        "timestamp": "2026-07-21 14:22:55"
+    },
+    {
+        "mode": "Division",
+        "question": "25620 \u00f7 366",
+        "answer": 70,
+        "timestamp": "2026-07-21 14:22:59"
+    },
+    {
+        "mode": "Division",
+        "question": "17550 \u00f7 351",
+        "answer": 50,
+        "timestamp": "2026-07-21 14:23:04"
+    },
+    {
+        "mode": "Division",
+        "question": "15106 \u00f7 182",
+        "answer": 83,
+        "timestamp": "2026-07-21 14:23:07"
+    },
+    {
+        "mode": "Division",
+        "question": "32424 \u00f7 579",
+        "answer": 56,
+        "timestamp": "2026-07-21 14:23:13"
+    },
+    {
+        "mode": "Division",
+        "question": "65481 \u00f7 949",
+        "answer": 69,
+        "timestamp": "2026-07-21 14:23:17"
+    },
+    {
+        "mode": "Division",
+        "question": "24725 \u00f7 989",
+        "answer": 25,
+        "timestamp": "2026-07-21 16:45:40"
+    },
+    {
+        "mode": "Division",
+        "question": "24765 \u00f7 635",
+        "answer": 39,
+        "timestamp": "2026-07-21 16:45:47"
+    },
+    {
+        "mode": "Division",
+        "question": "41668 \u00f7 947",
+        "answer": 44,
+        "timestamp": "2026-07-21 16:45:52"
+    },
+    {
+        "mode": "Division",
+        "question": "27512 \u00f7 724",
+        "answer": 38,
+        "timestamp": "2026-07-21 16:45:56"
+    },
+    {
+        "mode": "Division",
+        "question": "53424 \u00f7 954",
+        "answer": 56,
+        "timestamp": "2026-07-21 16:46:00"
+    },
+    {
+        "mode": "Division",
+        "question": "18590 \u00f7 845",
+        "answer": 22,
+        "timestamp": "2026-07-21 16:46:04"
+    },
+    {
+        "mode": "Division",
+        "question": "33925 \u00f7 575",
+        "answer": 59,
+        "timestamp": "2026-07-21 16:46:08"
+    },
+    {
+        "mode": "Division",
+        "question": "15210 \u00f7 585",
+        "answer": 26,
+        "timestamp": "2026-07-21 16:46:13"
+    },
+    {
+        "mode": "Division",
+        "question": "11792 \u00f7 268",
+        "answer": 44,
+        "timestamp": "2026-07-21 16:46:17"
+    },
+    {
+        "mode": "Division",
+        "question": "17546 \u00f7 283",
+        "answer": 62,
+        "timestamp": "2026-07-21 16:46:21"
+    },
+    {
+        "mode": "Division",
+        "question": "47058 \u00f7 713",
+        "answer": 66,
+        "timestamp": "2026-07-21 16:46:24"
+    },
+    {
+        "mode": "Division",
+        "question": "47288 \u00f7 514",
+        "answer": 92,
+        "timestamp": "2026-07-21 16:46:28"
+    },
+    {
+        "mode": "Division",
+        "question": "32470 \u00f7 382",
+        "answer": 85,
+        "timestamp": "2026-07-21 16:46:31"
+    },
+    {
+        "mode": "Division",
+        "question": "25992 \u00f7 361",
+        "answer": 72,
+        "timestamp": "2026-07-21 16:46:35"
+    },
+    {
+        "mode": "Division",
+        "question": "27504 \u00f7 382",
+        "answer": 72,
+        "timestamp": "2026-07-21 16:46:38"
+    },
+    {
+        "mode": "Division",
+        "question": "34987 \u00f7 593",
+        "answer": 59,
+        "timestamp": "2026-07-21 16:46:42"
+    },
+    {
+        "mode": "Division",
+        "question": "58212 \u00f7 693",
+        "answer": 84,
+        "timestamp": "2026-07-21 16:46:47"
+    },
+    {
+        "mode": "Division",
+        "question": "18180 \u00f7 202",
+        "answer": 90,
+        "timestamp": "2026-07-21 16:46:50"
+    },
+    {
+        "mode": "Division",
+        "question": "61424 \u00f7 698",
+        "answer": 88,
+        "timestamp": "2026-07-21 16:46:54"
+    },
+    {
+        "mode": "Division",
+        "question": "34358 \u00f7 838",
+        "answer": 41,
+        "timestamp": "2026-07-21 16:46:58"
+    },
+    {
+        "mode": "Division",
+        "question": "14340 \u00f7 717",
+        "answer": 20,
+        "timestamp": "2026-07-21 16:47:02"
+    },
+    {
+        "mode": "Division",
+        "question": "30960 \u00f7 645",
+        "answer": 48,
+        "timestamp": "2026-07-21 16:47:05"
+    },
+    {
+        "mode": "Division",
+        "question": "18400 \u00f7 920",
+        "answer": 20,
+        "timestamp": "2026-07-21 16:47:09"
+    },
+    {
+        "mode": "Division",
+        "question": "63750 \u00f7 750",
+        "answer": 85,
+        "timestamp": "2026-07-21 16:47:13"
+    },
+    {
+        "mode": "Division",
+        "question": "79566 \u00f7 894",
+        "answer": 89,
+        "timestamp": "2026-07-21 16:47:20"
+    },
+    {
+        "mode": "Division",
+        "question": "43134 \u00f7 546",
+        "answer": 79,
+        "timestamp": "2026-07-21 16:47:25"
+    },
+    {
+        "mode": "Division",
+        "question": "63612 \u00f7 684",
+        "answer": 93,
+        "timestamp": "2026-07-21 16:47:28"
+    },
+    {
+        "mode": "Division",
+        "question": "36354 \u00f7 498",
+        "answer": 73,
+        "timestamp": "2026-07-21 16:47:33"
+    },
+    {
+        "mode": "Division",
+        "question": "19872 \u00f7 828",
+        "answer": 24,
+        "timestamp": "2026-07-21 16:47:38"
+    },
+    {
+        "mode": "Division",
+        "question": "27224 \u00f7 332",
+        "answer": 82,
+        "timestamp": "2026-07-21 16:47:42"
+    },
+    {
+        "mode": "Division",
+        "question": "20907 \u00f7 909",
+        "answer": 23,
+        "timestamp": "2026-07-21 16:47:46"
+    },
+    {
+        "mode": "Division",
+        "question": "31350 \u00f7 418",
+        "answer": 75,
+        "timestamp": "2026-07-21 16:47:49"
+    },
+    {
+        "mode": "Division",
+        "question": "58725 \u00f7 675",
+        "answer": 87,
+        "timestamp": "2026-07-21 16:47:54"
+    },
+    {
+        "mode": "Division",
+        "question": "11418 \u00f7 519",
+        "answer": 22,
+        "timestamp": "2026-07-21 16:48:00"
+    },
+    {
+        "mode": "Division",
+        "question": "13680 \u00f7 912",
+        "answer": 15,
+        "timestamp": "2026-07-21 16:48:03"
+    },
+    {
+        "mode": "Division",
+        "question": "41268 \u00f7 543",
+        "answer": 76,
+        "timestamp": "2026-07-21 16:48:07"
+    },
+    {
+        "mode": "Division",
+        "question": "28016 \u00f7 412",
+        "answer": 68,
+        "timestamp": "2026-07-21 16:48:11"
+    },
+    {
+        "mode": "Division",
+        "question": "30944 \u00f7 967",
+        "answer": 32,
+        "timestamp": "2026-07-21 16:48:15"
+    },
+    {
+        "mode": "Division",
+        "question": "78960 \u00f7 987",
+        "answer": 80,
+        "timestamp": "2026-07-21 16:48:19"
+    },
+    {
+        "mode": "Division",
+        "question": "12876 \u00f7 174",
+        "answer": 74,
+        "timestamp": "2026-07-21 16:48:23"
+    },
+    {
+        "mode": "Division",
+        "question": "28380 \u00f7 645",
+        "answer": 44,
+        "timestamp": "2026-07-21 16:48:27"
+    },
+    {
+        "mode": "Division",
+        "question": "24411 \u00f7 309",
+        "answer": 79,
+        "timestamp": "2026-07-21 16:48:34"
+    },
+    {
+        "mode": "Division",
+        "question": "47085 \u00f7 645",
+        "answer": 73,
+        "timestamp": "2026-07-21 16:48:38"
+    },
+    {
+        "mode": "Division",
+        "question": "14124 \u00f7 642",
+        "answer": 22,
+        "timestamp": "2026-07-21 16:48:42"
+    },
+    {
+        "mode": "Division",
+        "question": "21372 \u00f7 548",
+        "answer": 39,
+        "timestamp": "2026-07-21 16:48:46"
+    },
+    {
+        "mode": "Division",
+        "question": "47952 \u00f7 648",
+        "answer": 74,
+        "timestamp": "2026-07-21 16:48:51"
+    },
+    {
+        "mode": "Division",
+        "question": "14325 \u00f7 573",
+        "answer": 25,
+        "timestamp": "2026-07-21 16:48:55"
+    },
+    {
+        "mode": "Division",
+        "question": "79948 \u00f7 869",
+        "answer": 92,
+        "timestamp": "2026-07-21 16:48:59"
+    },
+    {
+        "mode": "Division",
+        "question": "60200 \u00f7 700",
+        "answer": 86,
+        "timestamp": "2026-07-21 16:49:03"
+    },
+    {
+        "mode": "Division",
+        "question": "57975 \u00f7 773",
+        "answer": 75,
+        "timestamp": "2026-07-21 16:49:07"
+    },
+    {
+        "mode": "Division",
+        "question": "28350 \u00f7 810",
+        "answer": 35,
+        "timestamp": "2026-07-21 16:49:11"
+    },
+    {
+        "mode": "Division",
+        "question": "94864 \u00f7 968",
+        "answer": 98,
+        "timestamp": "2026-07-21 16:49:15"
+    },
+    {
+        "mode": "Division",
+        "question": "16008 \u00f7 232",
+        "answer": 69,
+        "timestamp": "2026-07-21 16:49:19"
+    },
+    {
+        "mode": "Division",
+        "question": "15652 \u00f7 559",
+        "answer": 28,
+        "timestamp": "2026-07-21 16:49:24"
+    },
+    {
+        "mode": "Division",
+        "question": "43072 \u00f7 673",
+        "answer": 64,
+        "timestamp": "2026-07-21 16:49:28"
+    },
+    {
+        "mode": "Division",
+        "question": "58705 \u00f7 995",
+        "answer": 59,
+        "timestamp": "2026-07-21 16:49:33"
+    },
+    {
+        "mode": "Division",
+        "question": "22960 \u00f7 656",
+        "answer": 35,
+        "timestamp": "2026-07-21 16:49:37"
+    },
+    {
+        "mode": "Division",
+        "question": "14406 \u00f7 343",
+        "answer": 42,
+        "timestamp": "2026-07-21 16:49:41"
+    },
+    {
+        "mode": "Division",
+        "question": "29757 \u00f7 763",
+        "answer": 39,
+        "timestamp": "2026-07-21 16:49:44"
+    },
+    {
+        "mode": "Division",
+        "question": "36630 \u00f7 495",
+        "answer": 74,
+        "timestamp": "2026-07-21 16:49:48"
+    },
+    {
+        "mode": "Division",
+        "question": "14445 \u00f7 963",
+        "answer": 15,
+        "timestamp": "2026-07-21 16:49:51"
+    },
+    {
+        "mode": "Division",
+        "question": "44200 \u00f7 520",
+        "answer": 85,
+        "timestamp": "2026-07-21 16:49:55"
+    },
+    {
+        "mode": "Division",
+        "question": "18450 \u00f7 450",
+        "answer": 41,
+        "timestamp": "2026-07-21 16:50:03"
+    },
+    {
+        "mode": "Division",
+        "question": "14805 \u00f7 235",
+        "answer": 63,
+        "timestamp": "2026-07-21 16:50:07"
+    },
+    {
+        "mode": "Division",
+        "question": "77600 \u00f7 800",
+        "answer": 97,
+        "timestamp": "2026-07-21 16:50:11"
+    },
+    {
+        "mode": "Division",
+        "question": "44863 \u00f7 493",
+        "answer": 91,
+        "timestamp": "2026-07-21 16:50:15"
+    },
+    {
+        "mode": "Division",
+        "question": "56357 \u00f7 679",
+        "answer": 83,
+        "timestamp": "2026-07-21 16:50:18"
+    },
+    {
+        "mode": "Division",
+        "question": "71280 \u00f7 792",
+        "answer": 90,
+        "timestamp": "2026-07-21 16:50:23"
+    },
+    {
+        "mode": "Division",
+        "question": "20424 \u00f7 888",
+        "answer": 23,
+        "timestamp": "2026-07-21 16:50:26"
+    },
+    {
+        "mode": "Division",
+        "question": "13845 \u00f7 195",
+        "answer": 71,
+        "timestamp": "2026-07-21 16:50:30"
+    },
+    {
+        "mode": "Division",
+        "question": "58233 \u00f7 987",
+        "answer": 59,
+        "timestamp": "2026-07-21 16:50:35"
+    },
+    {
+        "mode": "Division",
+        "question": "54280 \u00f7 590",
+        "answer": 92,
+        "timestamp": "2026-07-21 16:50:38"
+    },
+    {
+        "mode": "Division",
+        "question": "74035 \u00f7 871",
+        "answer": 85,
+        "timestamp": "2026-07-21 16:50:42"
+    },
+    {
+        "mode": "Division",
+        "question": "85634 \u00f7 911",
+        "answer": 94,
+        "timestamp": "2026-07-21 16:50:47"
+    },
+    {
+        "mode": "Squares",
+        "question": "32\u00b2",
+        "answer": 1024,
+        "timestamp": "2026-07-21 16:50:56"
+    },
+    {
+        "mode": "Squares",
+        "question": "37\u00b2",
+        "answer": 1369,
+        "timestamp": "2026-07-21 16:51:01"
+    },
+    {
+        "mode": "Division",
+        "question": "31746 \u00f7 814",
+        "answer": 39,
+        "timestamp": "2026-07-21 16:52:43"
+    },
+    {
+        "mode": "Division",
+        "question": "17884 \u00f7 526",
+        "answer": 34,
+        "timestamp": "2026-07-21 16:52:49"
+    },
+    {
+        "mode": "Division",
+        "question": "12546 \u00f7 738",
+        "answer": 17,
+        "timestamp": "2026-07-21 16:52:52"
+    },
+    {
+        "mode": "Division",
+        "question": "16728 \u00f7 492",
+        "answer": 34,
+        "timestamp": "2026-07-21 16:52:57"
+    },
+    {
+        "mode": "Division",
+        "question": "38844 \u00f7 468",
+        "answer": 83,
+        "timestamp": "2026-07-21 16:53:31"
+    },
+    {
+        "mode": "Division",
+        "question": "28391 \u00f7 979",
+        "answer": 29,
+        "timestamp": "2026-07-21 16:53:53"
+    },
+    {
+        "mode": "Division",
+        "question": "13515 \u00f7 159",
+        "answer": 85,
+        "timestamp": "2026-07-21 16:53:58"
+    },
+    {
+        "mode": "Division",
+        "question": "17575 \u00f7 703",
+        "answer": 25,
+        "timestamp": "2026-07-21 16:54:13"
+    },
+    {
+        "mode": "Division",
+        "question": "21924 \u00f7 756",
+        "answer": 29,
+        "timestamp": "2026-07-21 16:54:27"
+    },
+    {
+        "mode": "Division",
+        "question": "32040 \u00f7 356",
+        "answer": 90,
+        "timestamp": "2026-07-21 16:54:32"
+    },
+    {
+        "mode": "Division",
+        "question": "15876 \u00f7 324",
+        "answer": 49,
+        "timestamp": "2026-07-21 16:54:37"
+    },
+    {
+        "mode": "Division",
+        "question": "62912 \u00f7 983",
+        "answer": 64,
+        "timestamp": "2026-07-21 16:54:41"
+    },
+    {
+        "mode": "Division",
+        "question": "27323 \u00f7 307",
+        "answer": 89,
+        "timestamp": "2026-07-21 16:54:46"
+    },
+    {
+        "mode": "Division",
+        "question": "10166 \u00f7 299",
+        "answer": 34,
+        "timestamp": "2026-07-21 16:55:10"
+    },
+    {
+        "mode": "Division",
+        "question": "35554 \u00f7 613",
+        "answer": 58,
+        "timestamp": "2026-07-21 16:55:21"
+    },
+    {
+        "mode": "Division",
+        "question": "82908 \u00f7 882",
+        "answer": 94,
+        "timestamp": "2026-07-21 16:55:25"
+    },
+    {
+        "mode": "Division",
+        "question": "27054 \u00f7 334",
+        "answer": 81,
+        "timestamp": "2026-07-21 16:55:30"
+    },
+    {
+        "mode": "Division",
+        "question": "44428 \u00f7 766",
+        "answer": 58,
+        "timestamp": "2026-07-21 16:55:45"
+    },
+    {
+        "mode": "Division",
+        "question": "73786 \u00f7 934",
+        "answer": 79,
+        "timestamp": "2026-07-21 16:55:49"
+    },
+    {
+        "mode": "Division",
+        "question": "16820 \u00f7 290",
+        "answer": 58,
+        "timestamp": "2026-07-21 16:55:55"
+    },
+    {
+        "mode": "Division",
+        "question": "42687 \u00f7 837",
+        "answer": 51,
+        "timestamp": "2026-07-21 16:56:00"
+    },
+    {
+        "mode": "Division",
+        "question": "42704 \u00f7 628",
+        "answer": 68,
+        "timestamp": "2026-07-21 16:56:04"
+    },
+    {
+        "mode": "Division",
+        "question": "25389 \u00f7 651",
+        "answer": 39,
+        "timestamp": "2026-07-21 16:56:08"
+    },
+    {
+        "mode": "Division",
+        "question": "22150 \u00f7 886",
+        "answer": 25,
+        "timestamp": "2026-07-21 16:56:13"
+    },
+    {
+        "mode": "Division",
+        "question": "14118 \u00f7 181",
+        "answer": 78,
+        "timestamp": "2026-07-21 16:56:17"
+    },
+    {
+        "mode": "Division",
+        "question": "22044 \u00f7 668",
+        "answer": 33,
+        "timestamp": "2026-07-21 16:56:23"
+    },
+    {
+        "mode": "Division",
+        "question": "57792 \u00f7 672",
+        "answer": 86,
+        "timestamp": "2026-07-21 16:56:27"
+    },
+    {
+        "mode": "Division",
+        "question": "30549 \u00f7 51",
+        "answer": 599,
+        "timestamp": "2026-07-21 16:57:47"
+    },
+    {
+        "mode": "Division",
+        "question": "13290 \u00f7 15",
+        "answer": 886,
+        "timestamp": "2026-07-21 16:57:55"
+    },
+    {
+        "mode": "Division",
+        "question": "22790 \u00f7 53",
+        "answer": 430,
+        "timestamp": "2026-07-21 16:58:05"
+    },
+    {
+        "mode": "Division",
+        "question": "17480 \u00f7 20",
+        "answer": 874,
+        "timestamp": "2026-07-21 16:58:11"
+    },
+    {
+        "mode": "Division",
+        "question": "13983 \u00f7 59",
+        "answer": 237,
+        "timestamp": "2026-07-21 16:58:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "89 x 93",
+        "answer": 8277,
+        "timestamp": "2026-07-21 17:13:50"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "93 x 25",
+        "answer": 2325,
+        "timestamp": "2026-07-21 17:23:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "72 x 97",
+        "answer": 6984,
+        "timestamp": "2026-07-21 17:23:52"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "24 x 57",
+        "answer": 1368,
+        "timestamp": "2026-07-21 17:23:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "33 x 29",
+        "answer": 957,
+        "timestamp": "2026-07-21 17:24:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "99 x 56",
+        "answer": 5544,
+        "timestamp": "2026-07-21 17:24:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "52 x 77",
+        "answer": 4004,
+        "timestamp": "2026-07-22 13:41:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "717 x 82",
+        "answer": 58794,
+        "timestamp": "2026-07-22 13:41:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "248 x 22",
+        "answer": 5456,
+        "timestamp": "2026-07-22 13:41:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "705 x 71",
+        "answer": 50055,
+        "timestamp": "2026-07-22 13:41:29"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "124 x 56",
+        "answer": 6944,
+        "timestamp": "2026-07-22 13:41:34"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "298 x 18",
+        "answer": 5364,
+        "timestamp": "2026-07-22 13:41:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "367 x 84",
+        "answer": 30828,
+        "timestamp": "2026-07-22 13:41:47"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "589 x 35",
+        "answer": 20615,
+        "timestamp": "2026-07-22 14:13:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "196 x 59",
+        "answer": 11564,
+        "timestamp": "2026-07-22 14:14:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "461 x 62",
+        "answer": 28582,
+        "timestamp": "2026-07-22 14:14:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "507 x 21",
+        "answer": 10647,
+        "timestamp": "2026-07-22 14:14:15"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "466 x 34",
+        "answer": 15844,
+        "timestamp": "2026-07-22 14:14:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "632 x 57",
+        "answer": 36024,
+        "timestamp": "2026-07-22 14:14:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "56 x 46",
+        "answer": 2576,
+        "timestamp": "2026-07-22 14:31:12"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "72 x 51",
+        "answer": 3672,
+        "timestamp": "2026-07-23 14:00:39"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "65 x 65",
+        "answer": 4225,
+        "timestamp": "2026-07-23 14:00:45"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "97 x 18",
+        "answer": 1746,
+        "timestamp": "2026-07-23 14:00:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "55 x 44",
+        "answer": 2420,
+        "timestamp": "2026-07-23 14:03:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "14 x 70",
+        "answer": 980,
+        "timestamp": "2026-07-23 14:03:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "96 x 26",
+        "answer": 2496,
+        "timestamp": "2026-07-23 14:03:28"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "16 x 20",
+        "answer": 320,
+        "timestamp": "2026-07-23 14:03:34"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "90 x 61",
+        "answer": 5490,
+        "timestamp": "2026-07-23 14:03:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "68 x 84",
+        "answer": 5712,
+        "timestamp": "2026-07-23 15:58:29"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "92 x 46",
+        "answer": 4232,
+        "timestamp": "2026-07-23 16:00:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "58 x 60",
+        "answer": 3480,
+        "timestamp": "2026-07-23 16:01:30"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 29",
+        "answer": 1015,
+        "timestamp": "2026-07-23 16:02:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "96 x 63",
+        "answer": 6048,
+        "timestamp": "2026-07-23 16:02:27"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "91 x 57",
+        "answer": 5187,
+        "timestamp": "2026-07-23 16:02:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "34 x 98",
+        "answer": 3332,
+        "timestamp": "2026-07-23 16:02:44"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "70 x 55",
+        "answer": 3850,
+        "timestamp": "2026-07-23 16:07:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "33 x 74",
+        "answer": 2442,
+        "timestamp": "2026-07-23 16:07:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "13 x 89",
+        "answer": 1157,
+        "timestamp": "2026-07-23 16:07:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "47 x 33",
+        "answer": 1551,
+        "timestamp": "2026-07-23 16:07:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "38 x 98",
+        "answer": 3724,
+        "timestamp": "2026-07-23 16:29:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "54 x 11",
+        "answer": 594,
+        "timestamp": "2026-07-23 16:33:31"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "94 x 20",
+        "answer": 1880,
+        "timestamp": "2026-07-23 16:35:43"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "49 x 52",
+        "answer": 2548,
+        "timestamp": "2026-07-23 16:35:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "21 x 27",
+        "answer": 567,
+        "timestamp": "2026-07-23 16:36:31"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "44 x 49",
+        "answer": 2156,
+        "timestamp": "2026-07-23 16:39:50"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "96 x 50",
+        "answer": 4800,
+        "timestamp": "2026-07-23 16:40:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "88 x 31",
+        "answer": 2728,
+        "timestamp": "2026-07-23 16:52:01"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "79 x 22",
+        "answer": 1738,
+        "timestamp": "2026-07-23 16:52:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "44 x 44",
+        "answer": 1936,
+        "timestamp": "2026-07-23 16:52:27"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "96 x 26",
+        "answer": 2496,
+        "timestamp": "2026-07-23 16:52:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "24 x 13",
+        "answer": 312,
+        "timestamp": "2026-07-23 16:52:40"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "86 x 10",
+        "answer": 860,
+        "timestamp": "2026-07-23 16:52:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "53 x 46",
+        "answer": 2438,
+        "timestamp": "2026-07-23 16:58:45"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "25 x 81",
+        "answer": 2025,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "59 x 34",
+        "answer": 2006,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 92",
+        "answer": 3220,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "52 x 39",
+        "answer": 2028,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "63 x 26",
+        "answer": 1638,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "61 x 41",
+        "answer": 2501,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "65 x 14",
+        "answer": 910,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "40 x 37",
+        "answer": 1480,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "80 x 88",
+        "answer": 7040,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "75 x 26",
+        "answer": 1950,
+        "timestamp": "2026-07-23 16:58:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 75",
+        "answer": 2025,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "99 x 14",
+        "answer": 1386,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "58 x 83",
+        "answer": 4814,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "73 x 17",
+        "answer": 1241,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "75 x 30",
+        "answer": 2250,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "39 x 62",
+        "answer": 2418,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "26 x 44",
+        "answer": 1144,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "13 x 91",
+        "answer": 1183,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "60 x 11",
+        "answer": 660,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "65 x 21",
+        "answer": 1365,
+        "timestamp": "2026-07-23 16:58:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "49 x 11",
+        "answer": 539,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "15 x 83",
+        "answer": 1245,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "18 x 91",
+        "answer": 1638,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "72 x 91",
+        "answer": 6552,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "10 x 37",
+        "answer": 370,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "19 x 12",
+        "answer": 228,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 17",
+        "answer": 459,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "99 x 42",
+        "answer": 4158,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "15 x 17",
+        "answer": 255,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "43 x 85",
+        "answer": 3655,
+        "timestamp": "2026-07-23 16:59:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 89",
+        "answer": 2403,
+        "timestamp": "2026-07-23 17:00:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 77",
+        "answer": 2464,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 31",
+        "answer": 992,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 10",
+        "answer": 320,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "48 x 21",
+        "answer": 1008,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "24 x 50",
+        "answer": 1200,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "38 x 63",
+        "answer": 2394,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "60 x 79",
+        "answer": 4740,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "57 x 86",
+        "answer": 4902,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 71",
+        "answer": 2485,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "36 x 22",
+        "answer": 792,
+        "timestamp": "2026-07-23 17:00:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "12 x 98",
+        "answer": 1176,
+        "timestamp": "2026-07-23 17:00:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "56 x 12",
+        "answer": 672,
+        "timestamp": "2026-07-23 17:00:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "84 x 86",
+        "answer": 7224,
+        "timestamp": "2026-07-23 17:00:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "30 x 51",
+        "answer": 1530,
+        "timestamp": "2026-07-23 17:00:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "19 x 57",
+        "answer": 1083,
+        "timestamp": "2026-07-23 17:00:25"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "80 x 49",
+        "answer": 3920,
+        "timestamp": "2026-07-23 17:00:29"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "29 x 83",
+        "answer": 2407,
+        "timestamp": "2026-07-23 17:00:32"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "39 x 43",
+        "answer": 1677,
+        "timestamp": "2026-07-23 17:00:34"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 67",
+        "answer": 5159,
+        "timestamp": "2026-07-23 17:00:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "12 x 66",
+        "answer": 792,
+        "timestamp": "2026-07-23 17:00:42"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 22",
+        "answer": 1562,
+        "timestamp": "2026-07-23 17:00:44"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "83 x 26",
+        "answer": 2158,
+        "timestamp": "2026-07-23 17:00:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "36 x 97",
+        "answer": 3492,
+        "timestamp": "2026-07-23 17:00:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "12 x 65",
+        "answer": 780,
+        "timestamp": "2026-07-23 17:00:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 57",
+        "answer": 4047,
+        "timestamp": "2026-07-23 17:01:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "48 x 93",
+        "answer": 4464,
+        "timestamp": "2026-07-23 17:01:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "59 x 83",
+        "answer": 4897,
+        "timestamp": "2026-07-23 17:01:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "57 x 59",
+        "answer": 3363,
+        "timestamp": "2026-07-23 17:01:12"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 11",
+        "answer": 847,
+        "timestamp": "2026-07-23 17:01:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "74 x 19",
+        "answer": 1406,
+        "timestamp": "2026-07-23 17:01:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "42 x 23",
+        "answer": 966,
+        "timestamp": "2026-07-23 17:01:25"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "21 x 72",
+        "answer": 1512,
+        "timestamp": "2026-07-23 17:01:28"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "22 x 98",
+        "answer": 2156,
+        "timestamp": "2026-07-23 17:01:32"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "238 x 85",
+        "answer": 20230,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "201 x 69",
+        "answer": 13869,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "112 x 25",
+        "answer": 2800,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "921 x 28",
+        "answer": 25788,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "932 x 13",
+        "answer": 12116,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "929 x 51",
+        "answer": 47379,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "200 x 18",
+        "answer": 3600,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "186 x 80",
+        "answer": 14880,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "523 x 91",
+        "answer": 47593,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "920 x 72",
+        "answer": 66240,
+        "timestamp": "2026-07-23 17:01:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "545 x 78",
+        "answer": 42510,
+        "timestamp": "2026-07-23 17:01:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "155 x 41",
+        "answer": 6355,
+        "timestamp": "2026-07-23 17:01:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "297 x 53",
+        "answer": 15741,
+        "timestamp": "2026-07-23 17:02:01"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "991 x 98",
+        "answer": 97118,
+        "timestamp": "2026-07-23 17:02:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "435 x 18",
+        "answer": 7830,
+        "timestamp": "2026-07-23 17:02:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "840 x 67",
+        "answer": 56280,
+        "timestamp": "2026-07-23 17:02:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "302 x 34",
+        "answer": 10268,
+        "timestamp": "2026-07-23 17:02:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "772 x 56",
+        "answer": 43232,
+        "timestamp": "2026-07-23 17:02:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "716 x 43",
+        "answer": 30788,
+        "timestamp": "2026-07-23 17:02:25"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "321 x 36",
+        "answer": 11556,
+        "timestamp": "2026-07-23 17:02:29"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "700 x 41",
+        "answer": 28700,
+        "timestamp": "2026-07-23 17:02:33"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "400 x 14",
+        "answer": 5600,
+        "timestamp": "2026-07-23 17:02:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "114 x 10",
+        "answer": 1140,
+        "timestamp": "2026-07-23 17:02:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "795 x 15",
+        "answer": 11925,
+        "timestamp": "2026-07-23 17:02:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "468 x 62",
+        "answer": 29016,
+        "timestamp": "2026-07-23 17:02:43"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "128 x 24",
+        "answer": 3072,
+        "timestamp": "2026-07-23 17:02:52"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "166 x 79",
+        "answer": 13114,
+        "timestamp": "2026-07-23 17:02:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "761 x 36",
+        "answer": 27396,
+        "timestamp": "2026-07-23 17:03:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "709 x 12",
+        "answer": 8508,
+        "timestamp": "2026-07-23 17:03:04"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "700 x 37",
+        "answer": 25900,
+        "timestamp": "2026-07-23 17:03:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "334 x 42",
+        "answer": 14028,
+        "timestamp": "2026-07-23 17:03:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "200 x 35",
+        "answer": 7000,
+        "timestamp": "2026-07-23 17:03:14"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "960 x 71",
+        "answer": 68160,
+        "timestamp": "2026-07-23 17:03:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "403 x 64",
+        "answer": 25792,
+        "timestamp": "2026-07-23 19:38:04"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "939 x 20",
+        "answer": 18780,
+        "timestamp": "2026-07-23 19:38:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "772 x 78",
+        "answer": 60216,
+        "timestamp": "2026-07-23 19:38:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "823 x 13",
+        "answer": 10699,
+        "timestamp": "2026-07-23 19:38:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "348 x 37",
+        "answer": 12876,
+        "timestamp": "2026-07-23 19:38:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "359 x 81",
+        "answer": 29079,
+        "timestamp": "2026-07-23 19:38:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "800 x 76",
+        "answer": 60800,
+        "timestamp": "2026-07-23 19:38:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "582 x 69",
+        "answer": 40158,
+        "timestamp": "2026-07-23 19:38:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "483 x 32",
+        "answer": 15456,
+        "timestamp": "2026-07-23 19:38:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "726 x 81",
+        "answer": 58806,
+        "timestamp": "2026-07-23 19:38:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "653 x 76",
+        "answer": 49628,
+        "timestamp": "2026-07-23 19:38:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "869 x 82",
+        "answer": 71258,
+        "timestamp": "2026-07-23 19:38:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "262 x 21",
+        "answer": 5502,
+        "timestamp": "2026-07-23 19:38:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "327 x 29",
+        "answer": 9483,
+        "timestamp": "2026-07-23 19:38:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "484 x 94",
+        "answer": 45496,
+        "timestamp": "2026-07-23 19:38:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "613 x 89",
+        "answer": 54557,
+        "timestamp": "2026-07-23 19:38:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "603 x 47",
+        "answer": 28341,
+        "timestamp": "2026-07-23 19:38:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "578 x 27",
+        "answer": 15606,
+        "timestamp": "2026-07-23 19:38:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "892 x 97",
+        "answer": 86524,
+        "timestamp": "2026-07-23 19:38:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "415 x 67",
+        "answer": 27805,
+        "timestamp": "2026-07-23 19:38:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "470 x 95",
+        "answer": 44650,
+        "timestamp": "2026-07-23 19:38:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "438 x 81",
+        "answer": 35478,
+        "timestamp": "2026-07-23 19:38:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "236 x 80",
+        "answer": 18880,
+        "timestamp": "2026-07-23 19:38:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "762 x 80",
+        "answer": 60960,
+        "timestamp": "2026-07-23 19:38:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "437 x 73",
+        "answer": 31901,
+        "timestamp": "2026-07-23 19:38:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "558 x 66",
+        "answer": 36828,
+        "timestamp": "2026-07-23 19:38:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "776 x 42",
+        "answer": 32592,
+        "timestamp": "2026-07-23 19:38:12"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "145 x 45",
+        "answer": 6525,
+        "timestamp": "2026-07-23 19:38:12"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "760 x 80",
+        "answer": 60800,
+        "timestamp": "2026-07-23 19:38:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "659 x 97",
+        "answer": 63923,
+        "timestamp": "2026-07-23 19:38:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "198 x 28",
+        "answer": 5544,
+        "timestamp": "2026-07-23 19:38:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "220 x 88",
+        "answer": 19360,
+        "timestamp": "2026-07-23 19:38:14"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "450 x 65",
+        "answer": 29250,
+        "timestamp": "2026-07-23 19:38:14"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "321 x 93",
+        "answer": 29853,
+        "timestamp": "2026-07-23 19:38:15"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "384 x 69",
+        "answer": 26496,
+        "timestamp": "2026-07-23 19:38:15"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "428 x 66",
+        "answer": 28248,
+        "timestamp": "2026-07-23 19:38:15"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "449 x 44",
+        "answer": 19756,
+        "timestamp": "2026-07-23 19:38:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "584 x 33",
+        "answer": 19272,
+        "timestamp": "2026-07-23 19:38:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "173 x 26",
+        "answer": 4498,
+        "timestamp": "2026-07-23 19:38:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "675 x 36",
+        "answer": 24300,
+        "timestamp": "2026-07-23 19:38:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "849 x 24",
+        "answer": 20376,
+        "timestamp": "2026-07-23 19:38:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "843 x 53",
+        "answer": 44679,
+        "timestamp": "2026-07-23 19:38:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "793 x 14",
+        "answer": 11102,
+        "timestamp": "2026-07-23 19:38:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "323 x 89",
+        "answer": 28747,
+        "timestamp": "2026-07-23 19:38:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "782 x 56",
+        "answer": 43792,
+        "timestamp": "2026-07-23 19:38:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "702 x 89",
+        "answer": 62478,
+        "timestamp": "2026-07-23 19:38:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "921 x 37",
+        "answer": 34077,
+        "timestamp": "2026-07-23 19:38:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "120 x 41",
+        "answer": 4920,
+        "timestamp": "2026-07-23 19:38:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "635 x 24",
+        "answer": 15240,
+        "timestamp": "2026-07-23 19:38:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "872 x 53",
+        "answer": 46216,
+        "timestamp": "2026-07-23 19:38:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "794 x 98",
+        "answer": 77812,
+        "timestamp": "2026-07-23 19:38:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "363 x 82",
+        "answer": 29766,
+        "timestamp": "2026-07-23 19:38:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "738 x 55",
+        "answer": 40590,
+        "timestamp": "2026-07-23 19:38:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "630 x 70",
+        "answer": 44100,
+        "timestamp": "2026-07-23 19:38:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "897 x 98",
+        "answer": 87906,
+        "timestamp": "2026-07-23 19:38:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "416 x 20",
+        "answer": 8320,
+        "timestamp": "2026-07-23 19:38:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "875 x 91",
+        "answer": 79625,
+        "timestamp": "2026-07-23 19:38:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "396 x 60",
+        "answer": 23760,
+        "timestamp": "2026-07-23 19:38:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "595 x 70",
+        "answer": 41650,
+        "timestamp": "2026-07-23 19:38:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "789 x 57",
+        "answer": 44973,
+        "timestamp": "2026-07-23 19:38:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "165 x 82",
+        "answer": 13530,
+        "timestamp": "2026-07-23 19:38:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "682 x 28",
+        "answer": 19096,
+        "timestamp": "2026-07-23 19:38:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "119 x 79",
+        "answer": 9401,
+        "timestamp": "2026-07-23 19:38:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "901 x 57",
+        "answer": 51357,
+        "timestamp": "2026-07-23 19:38:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "97 x 33",
+        "answer": 3201,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "62 x 69",
+        "answer": 4278,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "78 x 81",
+        "answer": 6318,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "60 x 78",
+        "answer": 4680,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "44 x 30",
+        "answer": 1320,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "44 x 11",
+        "answer": 484,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "99 x 87",
+        "answer": 8613,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "86 x 99",
+        "answer": 8514,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "56 x 52",
+        "answer": 2912,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 67",
+        "answer": 2144,
+        "timestamp": "2026-07-23 19:38:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "47 x 68",
+        "answer": 3196,
+        "timestamp": "2026-07-23 19:38:50"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "75 x 97",
+        "answer": 7275,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "39 x 93",
+        "answer": 3627,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "70 x 77",
+        "answer": 5390,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 28",
+        "answer": 980,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "69 x 37",
+        "answer": 2553,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "98 x 97",
+        "answer": 9506,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "25 x 66",
+        "answer": 1650,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "28 x 14",
+        "answer": 392,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "51 x 14",
+        "answer": 714,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "41 x 17",
+        "answer": 697,
+        "timestamp": "2026-07-23 19:39:24"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "45 x 75",
+        "answer": 3375,
+        "timestamp": "2026-07-23 19:39:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "81 x 45",
+        "answer": 3645,
+        "timestamp": "2026-07-23 19:39:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "96 x 97",
+        "answer": 9312,
+        "timestamp": "2026-07-23 19:39:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "62 x 64",
+        "answer": 3968,
+        "timestamp": "2026-07-23 19:42:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "14 x 12",
+        "answer": 168,
+        "timestamp": "2026-07-23 19:42:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "89 x 30",
+        "answer": 2670,
+        "timestamp": "2026-07-23 19:42:50"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "78 x 92",
+        "answer": 7176,
+        "timestamp": "2026-07-23 19:42:50"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 87",
+        "answer": 6699,
+        "timestamp": "2026-07-23 19:42:50"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "88 x 36",
+        "answer": 3168,
+        "timestamp": "2026-07-23 19:42:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "47 x 74",
+        "answer": 3478,
+        "timestamp": "2026-07-23 19:42:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "28 x 52",
+        "answer": 1456,
+        "timestamp": "2026-07-23 19:42:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "50 x 40",
+        "answer": 2000,
+        "timestamp": "2026-07-23 19:42:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "52 x 36",
+        "answer": 1872,
+        "timestamp": "2026-07-23 19:42:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "62 x 87",
+        "answer": 5394,
+        "timestamp": "2026-07-23 19:42:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "86 x 43",
+        "answer": 3698,
+        "timestamp": "2026-07-23 19:42:56"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 70",
+        "answer": 2450,
+        "timestamp": "2026-07-23 19:42:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "50 x 11",
+        "answer": 550,
+        "timestamp": "2026-07-23 19:42:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "40 x 36",
+        "answer": 1440,
+        "timestamp": "2026-07-23 19:42:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "58 x 26",
+        "answer": 1508,
+        "timestamp": "2026-07-23 19:42:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "54 x 19",
+        "answer": 1026,
+        "timestamp": "2026-07-23 19:42:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "88 x 77",
+        "answer": 6776,
+        "timestamp": "2026-07-23 19:42:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "22 x 60",
+        "answer": 1320,
+        "timestamp": "2026-07-23 19:42:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "98 x 60",
+        "answer": 5880,
+        "timestamp": "2026-07-23 19:42:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "46 x 51",
+        "answer": 2346,
+        "timestamp": "2026-07-23 19:42:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "57 x 57",
+        "answer": 3249,
+        "timestamp": "2026-07-23 19:43:28"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "48 x 44",
+        "answer": 2112,
+        "timestamp": "2026-07-23 19:46:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 18",
+        "answer": 576,
+        "timestamp": "2026-07-23 19:46:52"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "64 x 64",
+        "answer": 4096,
+        "timestamp": "2026-07-23 19:46:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "72 x 75",
+        "answer": 5400,
+        "timestamp": "2026-07-23 19:46:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "80 x 69",
+        "answer": 5520,
+        "timestamp": "2026-07-23 19:46:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "68 x 79",
+        "answer": 5372,
+        "timestamp": "2026-07-23 19:46:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "76 x 34",
+        "answer": 2584,
+        "timestamp": "2026-07-23 20:02:50"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "51 x 32",
+        "answer": 1632,
+        "timestamp": "2026-07-23 20:02:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "48 x 24",
+        "answer": 1152,
+        "timestamp": "2026-07-23 20:03:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "95 x 36",
+        "answer": 3420,
+        "timestamp": "2026-07-23 20:03:40"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "11 x 98",
+        "answer": 1078,
+        "timestamp": "2026-07-23 20:03:43"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "47 x 72",
+        "answer": 3384,
+        "timestamp": "2026-07-23 20:03:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "20 x 66",
+        "answer": 1320,
+        "timestamp": "2026-07-23 20:04:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "78 x 34",
+        "answer": 2652,
+        "timestamp": "2026-07-23 20:04:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "20 x 39",
+        "answer": 780,
+        "timestamp": "2026-07-23 20:04:14"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "55 x 24",
+        "answer": 1320,
+        "timestamp": "2026-07-23 20:04:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "28 x 11",
+        "answer": 308,
+        "timestamp": "2026-07-23 20:04:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "62 x 40",
+        "answer": 2480,
+        "timestamp": "2026-07-23 20:04:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "37 x 98",
+        "answer": 3626,
+        "timestamp": "2026-07-23 20:04:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "17 x 102",
+        "answer": 1734,
+        "timestamp": "2026-07-23 20:05:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "26 x 484",
+        "answer": 12584,
+        "timestamp": "2026-07-23 20:05:39"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 535",
+        "answer": 18725,
+        "timestamp": "2026-07-23 20:05:45"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "26 x 911",
+        "answer": 23686,
+        "timestamp": "2026-07-23 20:05:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "13 x 570",
+        "answer": 7410,
+        "timestamp": "2026-07-23 20:06:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "70 x 305",
+        "answer": 21350,
+        "timestamp": "2026-07-23 20:06:26"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "63 x 104",
+        "answer": 6552,
+        "timestamp": "2026-07-23 20:06:30"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "61 x 525",
+        "answer": 32025,
+        "timestamp": "2026-07-23 20:06:59"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 800",
+        "answer": 28000,
+        "timestamp": "2026-07-23 20:07:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "85 x 189",
+        "answer": 16065,
+        "timestamp": "2026-07-23 20:07:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "93 x 302",
+        "answer": 28086,
+        "timestamp": "2026-07-23 20:07:12"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "69 x 543",
+        "answer": 37467,
+        "timestamp": "2026-07-23 20:07:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "90 x 483",
+        "answer": 43470,
+        "timestamp": "2026-07-23 20:07:42"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "44 x 346",
+        "answer": 15224,
+        "timestamp": "2026-07-23 20:07:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "48 x 710",
+        "answer": 34080,
+        "timestamp": "2026-07-23 20:07:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "42 x 389",
+        "answer": 16338,
+        "timestamp": "2026-07-23 20:07:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "63 x 546",
+        "answer": 34398,
+        "timestamp": "2026-07-23 20:08:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "48 x 812",
+        "answer": 38976,
+        "timestamp": "2026-07-23 20:08:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "79 x 474",
+        "answer": 37446,
+        "timestamp": "2026-07-23 20:08:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "29 x 533",
+        "answer": 15457,
+        "timestamp": "2026-07-23 20:08:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "78 x 151",
+        "answer": 11778,
+        "timestamp": "2026-07-23 20:08:57"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "13 x 116",
+        "answer": 1508,
+        "timestamp": "2026-07-23 20:09:01"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "20 x 598",
+        "answer": 11960,
+        "timestamp": "2026-07-23 20:09:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "11 x 888",
+        "answer": 9768,
+        "timestamp": "2026-07-23 20:09:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "52 x 906",
+        "answer": 47112,
+        "timestamp": "2026-07-23 20:09:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "64 x 834",
+        "answer": 53376,
+        "timestamp": "2026-07-23 20:09:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "64 x 429",
+        "answer": 27456,
+        "timestamp": "2026-07-23 20:09:39"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "34 x 499",
+        "answer": 16966,
+        "timestamp": "2026-07-23 20:09:47"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "29 x 640",
+        "answer": 18560,
+        "timestamp": "2026-07-23 20:09:52"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 639",
+        "answer": 17253,
+        "timestamp": "2026-07-23 20:10:42"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "49 x 838",
+        "answer": 41062,
+        "timestamp": "2026-07-23 20:10:45"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "64 x 635",
+        "answer": 40640,
+        "timestamp": "2026-07-23 20:10:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "11 x 906",
+        "answer": 9966,
+        "timestamp": "2026-07-24 17:37:02"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "26 x 621",
+        "answer": 16146,
+        "timestamp": "2026-07-24 17:37:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "49 x 659",
+        "answer": 32291,
+        "timestamp": "2026-07-24 17:37:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "30 x 564",
+        "answer": 16920,
+        "timestamp": "2026-07-24 17:37:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "66 x 308",
+        "answer": 20328,
+        "timestamp": "2026-07-24 17:37:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 614",
+        "answer": 43594,
+        "timestamp": "2026-07-24 17:37:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 835",
+        "answer": 64295,
+        "timestamp": "2026-07-24 17:37:28"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "76 x 585",
+        "answer": 44460,
+        "timestamp": "2026-07-24 17:37:32"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "37 x 685",
+        "answer": 25345,
+        "timestamp": "2026-07-24 17:37:36"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "84 x 682",
+        "answer": 57288,
+        "timestamp": "2026-07-24 17:37:41"
+    },
+    {
+        "mode": "Division",
+        "question": "35342 \u00f7 82",
+        "answer": 431,
+        "timestamp": "2026-07-25 23:43:29"
+    },
+    {
+        "mode": "Division",
+        "question": "12428 \u00f7 26",
+        "answer": 478,
+        "timestamp": "2026-07-25 23:43:35"
+    },
+    {
+        "mode": "Division",
+        "question": "61180 \u00f7 95",
+        "answer": 644,
+        "timestamp": "2026-07-25 23:43:45"
+    },
+    {
+        "mode": "Division",
+        "question": "57024 \u00f7 99",
+        "answer": 576,
+        "timestamp": "2026-07-25 23:43:50"
+    },
+    {
+        "mode": "Division",
+        "question": "75858 \u00f7 94",
+        "answer": 807,
+        "timestamp": "2026-07-25 23:43:55"
+    },
+    {
+        "mode": "Division",
+        "question": "54712 \u00f7 56",
+        "answer": 977,
+        "timestamp": "2026-07-25 23:43:59"
+    },
+    {
+        "mode": "Division",
+        "question": "60800 \u00f7 76",
+        "answer": 800,
+        "timestamp": "2026-07-25 23:44:25"
+    },
+    {
+        "mode": "Division",
+        "question": "83520 \u00f7 87",
+        "answer": 960,
+        "timestamp": "2026-07-25 23:44:29"
+    },
+    {
+        "mode": "Division",
+        "question": "24310 \u00f7 85",
+        "answer": 286,
+        "timestamp": "2026-07-25 23:44:35"
+    },
+    {
+        "mode": "Division",
+        "question": "62496 \u00f7 63",
+        "answer": 992,
+        "timestamp": "2026-07-25 23:44:47"
+    },
+    {
+        "mode": "Division",
+        "question": "32784 \u00f7 48",
+        "answer": 683,
+        "timestamp": "2026-07-25 23:45:06"
+    },
+    {
+        "mode": "Division",
+        "question": "21414 \u00f7 43",
+        "answer": 498,
+        "timestamp": "2026-07-25 23:45:11"
+    },
+    {
+        "mode": "Division",
+        "question": "21413 \u00f7 49",
+        "answer": 437,
+        "timestamp": "2026-07-25 23:45:25"
+    },
+    {
+        "mode": "Division",
+        "question": "36421 \u00f7 43",
+        "answer": 847,
+        "timestamp": "2026-07-25 23:45:31"
+    },
+    {
+        "mode": "Division",
+        "question": "84968 \u00f7 86",
+        "answer": 988,
+        "timestamp": "2026-07-25 23:45:36"
+    },
+    {
+        "mode": "Division",
+        "question": "70884 \u00f7 99",
+        "answer": 716,
+        "timestamp": "2026-07-25 23:45:42"
+    },
+    {
+        "mode": "Division",
+        "question": "38048 \u00f7 58",
+        "answer": 656,
+        "timestamp": "2026-07-25 23:45:49"
+    },
+    {
+        "mode": "Division",
+        "question": "55505 \u00f7 85",
+        "answer": 653,
+        "timestamp": "2026-07-25 23:45:55"
+    },
+    {
+        "mode": "Division",
+        "question": "10080 \u00f7 84",
+        "answer": 120,
+        "timestamp": "2026-07-25 23:46:00"
+    },
+    {
+        "mode": "Division",
+        "question": "18486 \u00f7 26",
+        "answer": 711,
+        "timestamp": "2026-07-25 23:46:04"
+    },
+    {
+        "mode": "Division",
+        "question": "20532 \u00f7 29",
+        "answer": 708,
+        "timestamp": "2026-07-25 23:46:10"
+    },
+    {
+        "mode": "Division",
+        "question": "19893 \u00f7 57",
+        "answer": 349,
+        "timestamp": "2026-07-25 23:46:37"
+    },
+    {
+        "mode": "Division",
+        "question": "13110 \u00f7 30",
+        "answer": 437,
+        "timestamp": "2026-07-25 23:46:42"
+    },
+    {
+        "mode": "Division",
+        "question": "35340 \u00f7 62",
+        "answer": 570,
+        "timestamp": "2026-07-25 23:46:46"
+    },
+    {
+        "mode": "Division",
+        "question": "44114 \u00f7 46",
+        "answer": 959,
+        "timestamp": "2026-07-25 23:46:50"
+    },
+    {
+        "mode": "Division",
+        "question": "20584 \u00f7 31",
+        "answer": 664,
+        "timestamp": "2026-07-25 23:46:55"
+    },
+    {
+        "mode": "Division",
+        "question": "61143 \u00f7 89",
+        "answer": 687,
+        "timestamp": "2026-07-25 23:47:01"
+    },
+    {
+        "mode": "Division",
+        "question": "49070 \u00f7 70",
+        "answer": 701,
+        "timestamp": "2026-07-25 23:47:06"
+    },
+    {
+        "mode": "Division",
+        "question": "37895 \u00f7 65",
+        "answer": 583,
+        "timestamp": "2026-07-25 23:47:23"
+    },
+    {
+        "mode": "Division",
+        "question": "26490 \u00f7 30",
+        "answer": 883,
+        "timestamp": "2026-07-25 23:47:28"
+    },
+    {
+        "mode": "Division",
+        "question": "66450 \u00f7 75",
+        "answer": 886,
+        "timestamp": "2026-07-25 23:47:34"
+    },
+    {
+        "mode": "Division",
+        "question": "11580 \u00f7 12",
+        "answer": 965,
+        "timestamp": "2026-07-25 23:47:40"
+    },
+    {
+        "mode": "Division",
+        "question": "11703 \u00f7 47",
+        "answer": 249,
+        "timestamp": "2026-07-25 23:47:45"
+    },
+    {
+        "mode": "Division",
+        "question": "81969 \u00f7 89",
+        "answer": 921,
+        "timestamp": "2026-07-25 23:47:49"
+    },
+    {
+        "mode": "Division",
+        "question": "41976 \u00f7 72",
+        "answer": 583,
+        "timestamp": "2026-07-25 23:47:54"
+    },
+    {
+        "mode": "Division",
+        "question": "27745 \u00f7 31",
+        "answer": 895,
+        "timestamp": "2026-07-25 23:48:00"
+    },
+    {
+        "mode": "Division",
+        "question": "17244 \u00f7 18",
+        "answer": 958,
+        "timestamp": "2026-07-25 23:48:05"
+    },
+    {
+        "mode": "Division",
+        "question": "82080 \u00f7 96",
+        "answer": 855,
+        "timestamp": "2026-07-25 23:48:10"
+    },
+    {
+        "mode": "Division",
+        "question": "29432 \u00f7 52",
+        "answer": 566,
+        "timestamp": "2026-07-25 23:48:16"
+    },
+    {
+        "mode": "Division",
+        "question": "13192 \u00f7 68",
+        "answer": 194,
+        "timestamp": "2026-07-25 23:48:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "93 x 677",
+        "answer": 62961,
+        "timestamp": "2026-07-28 15:14:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "48 x 910",
+        "answer": 43680,
+        "timestamp": "2026-07-28 15:14:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "16 x 134",
+        "answer": 2144,
+        "timestamp": "2026-07-28 15:14:47"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "53 x 600",
+        "answer": 31800,
+        "timestamp": "2026-07-28 15:14:47"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "17 x 719",
+        "answer": 12223,
+        "timestamp": "2026-07-28 15:14:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "46 x 661",
+        "answer": 30406,
+        "timestamp": "2026-07-28 15:14:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "73 x 709",
+        "answer": 51757,
+        "timestamp": "2026-07-28 15:14:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "20 x 332",
+        "answer": 6640,
+        "timestamp": "2026-07-28 15:14:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "41 x 756",
+        "answer": 30996,
+        "timestamp": "2026-07-28 15:14:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "34 x 530",
+        "answer": 18020,
+        "timestamp": "2026-07-28 15:14:49"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "24 x 183",
+        "answer": 4392,
+        "timestamp": "2026-07-28 16:48:33"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "39 x 232",
+        "answer": 9048,
+        "timestamp": "2026-07-28 16:48:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "17 x 862",
+        "answer": 14654,
+        "timestamp": "2026-07-28 16:48:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "84 x 586",
+        "answer": 49224,
+        "timestamp": "2026-07-28 16:48:36"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "36 x 341",
+        "answer": 12276,
+        "timestamp": "2026-07-28 16:48:36"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "61 x 550",
+        "answer": 33550,
+        "timestamp": "2026-07-28 16:48:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "39 x 348",
+        "answer": 13572,
+        "timestamp": "2026-07-28 16:48:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "58 x 329",
+        "answer": 19082,
+        "timestamp": "2026-07-28 16:48:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "57 x 921",
+        "answer": 52497,
+        "timestamp": "2026-07-28 16:48:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "46 x 452",
+        "answer": 20792,
+        "timestamp": "2026-07-28 16:48:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "93 x 861",
+        "answer": 80073,
+        "timestamp": "2026-07-28 16:48:42"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "39 x 336",
+        "answer": 13104,
+        "timestamp": "2026-07-28 16:48:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "63 x 751",
+        "answer": 47313,
+        "timestamp": "2026-07-28 16:48:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "41 x 775",
+        "answer": 31775,
+        "timestamp": "2026-07-28 16:48:59"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "17 x 402",
+        "answer": 6834,
+        "timestamp": "2026-07-28 16:48:59"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "28 x 282",
+        "answer": 7896,
+        "timestamp": "2026-07-28 16:49:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "12 x 307",
+        "answer": 3684,
+        "timestamp": "2026-07-28 16:49:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "61 x 276",
+        "answer": 16836,
+        "timestamp": "2026-07-28 16:49:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "69 x 848",
+        "answer": 58512,
+        "timestamp": "2026-07-28 16:49:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "41 x 489",
+        "answer": 20049,
+        "timestamp": "2026-07-28 16:49:01"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "21 x 942",
+        "answer": 19782,
+        "timestamp": "2026-07-28 16:49:01"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "21 x 526",
+        "answer": 11046,
+        "timestamp": "2026-07-28 16:49:01"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "58 x 233",
+        "answer": 13514,
+        "timestamp": "2026-07-28 16:49:02"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "23 x 484",
+        "answer": 11132,
+        "timestamp": "2026-07-28 16:49:02"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 218",
+        "answer": 5886,
+        "timestamp": "2026-07-28 16:49:02"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 530",
+        "answer": 37630,
+        "timestamp": "2026-07-28 16:49:02"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "72 x 857",
+        "answer": 61704,
+        "timestamp": "2026-07-28 16:49:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 155",
+        "answer": 11935,
+        "timestamp": "2026-07-28 16:49:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "37 x 327",
+        "answer": 12099,
+        "timestamp": "2026-07-28 16:49:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "69 x 227",
+        "answer": 15663,
+        "timestamp": "2026-07-28 16:49:04"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "43 x 544",
+        "answer": 23392,
+        "timestamp": "2026-07-28 16:49:04"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "61 x 656",
+        "answer": 40016,
+        "timestamp": "2026-07-28 16:49:04"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 211",
+        "answer": 14981,
+        "timestamp": "2026-07-28 16:49:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "82 x 636",
+        "answer": 52152,
+        "timestamp": "2026-07-28 16:49:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "28 x 920",
+        "answer": 25760,
+        "timestamp": "2026-07-28 16:49:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "61 x 893",
+        "answer": 54473,
+        "timestamp": "2026-07-28 16:49:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "15 x 597",
+        "answer": 8955,
+        "timestamp": "2026-07-28 16:49:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "38 x 585",
+        "answer": 22230,
+        "timestamp": "2026-07-28 16:49:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "51 x 917",
+        "answer": 46767,
+        "timestamp": "2026-07-28 16:49:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 152",
+        "answer": 11704,
+        "timestamp": "2026-07-28 16:49:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "75 x 823",
+        "answer": 61725,
+        "timestamp": "2026-07-28 16:49:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "37 x 492",
+        "answer": 18204,
+        "timestamp": "2026-07-28 16:49:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "85 x 657",
+        "answer": 55845,
+        "timestamp": "2026-07-28 16:49:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "93 x 475",
+        "answer": 44175,
+        "timestamp": "2026-07-28 16:49:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "91 x 894",
+        "answer": 81354,
+        "timestamp": "2026-07-28 16:49:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "42 x 435",
+        "answer": 18270,
+        "timestamp": "2026-07-28 16:49:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 845",
+        "answer": 22815,
+        "timestamp": "2026-07-28 16:49:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "41 x 359",
+        "answer": 14719,
+        "timestamp": "2026-07-28 16:49:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "97 x 126",
+        "answer": 12222,
+        "timestamp": "2026-07-28 16:49:08"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 619",
+        "answer": 43949,
+        "timestamp": "2026-07-28 16:49:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 909",
+        "answer": 31815,
+        "timestamp": "2026-07-28 16:49:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 996",
+        "answer": 31872,
+        "timestamp": "2026-07-28 16:49:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "81 x 477",
+        "answer": 38637,
+        "timestamp": "2026-07-28 16:49:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "44 x 530",
+        "answer": 23320,
+        "timestamp": "2026-07-28 16:49:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "59 x 795",
+        "answer": 46905,
+        "timestamp": "2026-07-28 16:49:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "90 x 288",
+        "answer": 25920,
+        "timestamp": "2026-07-28 16:49:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 211",
+        "answer": 16247,
+        "timestamp": "2026-07-28 16:49:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "24 x 448",
+        "answer": 10752,
+        "timestamp": "2026-07-28 16:49:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "87 x 314",
+        "answer": 27318,
+        "timestamp": "2026-07-28 17:03:12"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "73 x 159",
+        "answer": 11607,
+        "timestamp": "2026-07-28 17:03:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "67 x 278",
+        "answer": 18626,
+        "timestamp": "2026-07-28 17:03:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "29 x 223",
+        "answer": 6467,
+        "timestamp": "2026-07-28 17:03:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 714",
+        "answer": 54978,
+        "timestamp": "2026-07-28 17:03:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "82 x 550",
+        "answer": 45100,
+        "timestamp": "2026-07-28 17:03:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "56 x 245",
+        "answer": 13720,
+        "timestamp": "2026-07-28 17:03:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "73 x 932",
+        "answer": 68036,
+        "timestamp": "2026-07-28 17:03:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "31 x 289",
+        "answer": 8959,
+        "timestamp": "2026-07-28 17:03:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 928",
+        "answer": 32480,
+        "timestamp": "2026-07-28 17:03:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "68 x 809",
+        "answer": 55012,
+        "timestamp": "2026-07-28 17:03:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "72 x 311",
+        "answer": 22392,
+        "timestamp": "2026-07-28 17:03:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "59 x 316",
+        "answer": 18644,
+        "timestamp": "2026-07-28 17:03:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "89 x 371",
+        "answer": 33019,
+        "timestamp": "2026-07-28 17:03:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "26 x 209",
+        "answer": 5434,
+        "timestamp": "2026-07-28 17:03:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "10 x 353",
+        "answer": 3530,
+        "timestamp": "2026-07-28 17:03:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "99 x 245",
+        "answer": 24255,
+        "timestamp": "2026-07-28 17:03:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "31 x 991",
+        "answer": 30721,
+        "timestamp": "2026-07-28 17:03:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "60 x 536",
+        "answer": 32160,
+        "timestamp": "2026-07-28 17:03:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "54 x 886",
+        "answer": 47844,
+        "timestamp": "2026-07-28 17:03:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "96 x 653",
+        "answer": 62688,
+        "timestamp": "2026-07-28 17:03:27"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "52 x 630",
+        "answer": 32760,
+        "timestamp": "2026-07-28 17:03:33"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "59 x 136",
+        "answer": 8024,
+        "timestamp": "2026-07-28 17:03:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "84 x 986",
+        "answer": 82824,
+        "timestamp": "2026-07-28 17:03:39"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "93 x 681",
+        "answer": 63333,
+        "timestamp": "2026-07-28 17:03:39"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "84 x 389",
+        "answer": 32676,
+        "timestamp": "2026-07-28 17:03:40"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 842",
+        "answer": 26944,
+        "timestamp": "2026-07-28 17:03:40"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "44 x 114",
+        "answer": 5016,
+        "timestamp": "2026-07-28 17:03:40"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "86 x 498",
+        "answer": 42828,
+        "timestamp": "2026-07-28 17:03:40"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "38 x 150",
+        "answer": 5700,
+        "timestamp": "2026-07-28 17:03:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "25 x 150",
+        "answer": 3750,
+        "timestamp": "2026-07-28 17:04:17"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 393",
+        "answer": 10611,
+        "timestamp": "2026-07-28 17:04:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "22 x 329",
+        "answer": 7238,
+        "timestamp": "2026-07-28 17:04:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "31 x 374",
+        "answer": 11594,
+        "timestamp": "2026-07-28 17:04:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "33 x 777",
+        "answer": 25641,
+        "timestamp": "2026-07-28 17:04:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "97 x 330",
+        "answer": 32010,
+        "timestamp": "2026-07-28 17:04:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 624",
+        "answer": 16848,
+        "timestamp": "2026-07-28 17:04:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "19 x 774",
+        "answer": 14706,
+        "timestamp": "2026-07-28 17:04:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "58 x 303",
+        "answer": 17574,
+        "timestamp": "2026-07-28 17:04:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "17 x 298",
+        "answer": 5066,
+        "timestamp": "2026-07-28 17:04:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "60 x 966",
+        "answer": 57960,
+        "timestamp": "2026-07-28 17:04:30"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "25 x 214",
+        "answer": 5350,
+        "timestamp": "2026-07-28 17:04:34"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "20 x 414",
+        "answer": 8280,
+        "timestamp": "2026-07-28 17:04:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "10 x 177",
+        "answer": 1770,
+        "timestamp": "2026-07-28 17:04:39"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "76 x 111",
+        "answer": 8436,
+        "timestamp": "2026-07-28 17:04:43"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "55 x 252",
+        "answer": 13860,
+        "timestamp": "2026-07-28 17:04:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "41 x 732",
+        "answer": 30012,
+        "timestamp": "2026-07-28 17:04:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "36 x 471",
+        "answer": 16956,
+        "timestamp": "2026-07-28 17:04:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "64 x 261",
+        "answer": 16704,
+        "timestamp": "2026-07-28 17:04:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "85 x 549",
+        "answer": 46665,
+        "timestamp": "2026-07-28 17:04:52"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "40 x 547",
+        "answer": 21880,
+        "timestamp": "2026-07-28 17:05:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 974",
+        "answer": 69154,
+        "timestamp": "2026-07-28 17:05:25"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "85 x 180",
+        "answer": 15300,
+        "timestamp": "2026-07-28 17:05:28"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "99 x 575",
+        "answer": 56925,
+        "timestamp": "2026-07-28 17:05:31"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "70 x 130",
+        "answer": 9100,
+        "timestamp": "2026-07-28 17:05:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "10 x 527",
+        "answer": 5270,
+        "timestamp": "2026-07-28 17:05:43"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 152",
+        "answer": 4104,
+        "timestamp": "2026-07-28 17:05:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "46 x 772",
+        "answer": 35512,
+        "timestamp": "2026-07-28 17:05:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "97 x 811",
+        "answer": 78667,
+        "timestamp": "2026-07-28 17:05:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "61 x 868",
+        "answer": 52948,
+        "timestamp": "2026-07-28 17:06:01"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "79 x 953",
+        "answer": 75287,
+        "timestamp": "2026-07-28 17:09:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "18 x 577",
+        "answer": 10386,
+        "timestamp": "2026-07-28 17:10:31"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "65 x 877",
+        "answer": 57005,
+        "timestamp": "2026-07-28 17:10:36"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "92 x 994",
+        "answer": 91448,
+        "timestamp": "2026-07-28 17:10:39"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "99 x 206",
+        "answer": 20394,
+        "timestamp": "2026-07-28 17:10:44"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "50 x 136",
+        "answer": 6800,
+        "timestamp": "2026-07-28 17:10:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "76 x 941",
+        "answer": 71516,
+        "timestamp": "2026-07-28 17:10:51"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "98 x 225",
+        "answer": 22050,
+        "timestamp": "2026-07-28 17:10:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "25 x 105",
+        "answer": 2625,
+        "timestamp": "2026-07-28 17:11:02"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "62 x 435",
+        "answer": 26970,
+        "timestamp": "2026-07-28 17:11:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "45 x 650",
+        "answer": 29250,
+        "timestamp": "2026-07-28 17:11:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "30 x 633",
+        "answer": 18990,
+        "timestamp": "2026-07-28 17:20:10"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "96 x 538",
+        "answer": 51648,
+        "timestamp": "2026-07-28 17:20:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "70 x 682",
+        "answer": 47740,
+        "timestamp": "2026-07-28 17:20:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "33 x 819",
+        "answer": 27027,
+        "timestamp": "2026-07-28 17:20:21"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "14 x 643",
+        "answer": 9002,
+        "timestamp": "2026-07-28 17:20:26"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "46 x 891",
+        "answer": 40986,
+        "timestamp": "2026-07-28 17:20:30"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 345",
+        "answer": 11040,
+        "timestamp": "2026-07-28 17:20:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "98 x 600",
+        "answer": 58800,
+        "timestamp": "2026-07-28 17:20:39"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "27 x 736",
+        "answer": 19872,
+        "timestamp": "2026-07-28 17:20:42"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "61 x 764",
+        "answer": 46604,
+        "timestamp": "2026-07-28 17:20:48"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "23 x 378",
+        "answer": 8694,
+        "timestamp": "2026-08-20 18:28:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "56 x 983",
+        "answer": 55048,
+        "timestamp": "2026-08-20 18:29:01"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "74 x 857",
+        "answer": 63418,
+        "timestamp": "2026-08-20 18:29:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "95 x 420",
+        "answer": 39900,
+        "timestamp": "2026-08-20 18:29:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "49 x 139",
+        "answer": 6811,
+        "timestamp": "2026-08-20 18:29:14"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "36 x 896",
+        "answer": 32256,
+        "timestamp": "2026-08-20 18:29:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "84 x 636",
+        "answer": 53424,
+        "timestamp": "2026-08-20 18:29:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "47 x 735",
+        "answer": 34545,
+        "timestamp": "2026-08-20 18:29:28"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "12 x 202",
+        "answer": 2424,
+        "timestamp": "2026-08-20 18:29:32"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "62 x 943",
+        "answer": 58466,
+        "timestamp": "2026-08-20 18:29:36"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "83 x 872",
+        "answer": 72376,
+        "timestamp": "2026-08-20 18:29:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "34 x 298",
+        "answer": 10132,
+        "timestamp": "2026-08-20 18:32:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "10 x 907",
+        "answer": 9070,
+        "timestamp": "2026-08-20 18:32:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "68 x 608",
+        "answer": 41344,
+        "timestamp": "2026-08-20 19:00:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "72 x 638",
+        "answer": 45936,
+        "timestamp": "2026-08-20 19:00:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "77 x 130",
+        "answer": 10010,
+        "timestamp": "2026-08-20 19:05:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "34 x 515",
+        "answer": 17510,
+        "timestamp": "2026-08-20 19:05:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "91 x 284",
+        "answer": 25844,
+        "timestamp": "2026-08-20 19:06:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "95 x 204",
+        "answer": 19380,
+        "timestamp": "2026-08-20 19:06:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "93 x 196",
+        "answer": 18228,
+        "timestamp": "2026-08-20 19:11:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "70 x 721",
+        "answer": 50470,
+        "timestamp": "2026-08-20 19:11:16"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "49 x 706",
+        "answer": 34594,
+        "timestamp": "2026-08-20 19:14:31"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "32 x 964",
+        "answer": 30848,
+        "timestamp": "2026-08-20 19:14:31"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "85 x 658",
+        "answer": 55930,
+        "timestamp": "2026-08-20 19:14:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "76 x 859",
+        "answer": 65284,
+        "timestamp": "2026-08-20 19:14:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "89 x 309",
+        "answer": 27501,
+        "timestamp": "2026-08-20 19:15:02"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "35 x 118",
+        "answer": 4130,
+        "timestamp": "2026-08-20 19:15:02"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "45 x 454",
+        "answer": 20430,
+        "timestamp": "2026-08-20 19:15:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "37 x 770",
+        "answer": 28490,
+        "timestamp": "2026-08-20 19:15:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "67 x 489",
+        "answer": 32763,
+        "timestamp": "2026-08-20 19:20:37"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "47 x 838",
+        "answer": 39386,
+        "timestamp": "2026-08-20 19:20:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "96 x 941",
+        "answer": 90336,
+        "timestamp": "2026-08-20 19:21:43"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "95 x 384",
+        "answer": 36480,
+        "timestamp": "2026-08-20 19:33:22"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 634",
+        "answer": 45014,
+        "timestamp": "2026-08-20 19:33:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "43 x 615",
+        "answer": 26445,
+        "timestamp": "2026-08-20 19:33:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "55 x 746",
+        "answer": 41030,
+        "timestamp": "2026-08-20 19:43:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "66 x 153",
+        "answer": 10098,
+        "timestamp": "2026-08-20 19:43:26"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "46 x 640",
+        "answer": 29440,
+        "timestamp": "2026-08-20 19:43:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "12 x 450",
+        "answer": 5400,
+        "timestamp": "2026-08-20 19:43:43"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "88 x 573",
+        "answer": 50424,
+        "timestamp": "2026-08-20 19:43:47"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "23 x 854",
+        "answer": 19642,
+        "timestamp": "2026-08-20 19:43:54"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "65 x 668",
+        "answer": 43420,
+        "timestamp": "2026-08-20 19:44:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "19 x 560",
+        "answer": 10640,
+        "timestamp": "2026-08-20 19:44:09"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "51 x 512",
+        "answer": 26112,
+        "timestamp": "2026-08-20 19:44:15"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "92 x 863",
+        "answer": 79396,
+        "timestamp": "2026-08-20 19:44:23"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "31 x 341",
+        "answer": 10571,
+        "timestamp": "2026-08-20 19:48:35"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "64 x 172",
+        "answer": 11008,
+        "timestamp": "2026-08-20 19:48:41"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "58 x 799",
+        "answer": 46342,
+        "timestamp": "2026-08-20 19:48:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "99 x 760",
+        "answer": 75240,
+        "timestamp": "2026-08-20 19:48:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "54 x 811",
+        "answer": 43794,
+        "timestamp": "2026-08-20 19:49:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "94 x 736",
+        "answer": 69184,
+        "timestamp": "2026-08-20 19:49:59"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "11 x 385",
+        "answer": 4235,
+        "timestamp": "2026-08-20 19:50:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "90 x 920",
+        "answer": 82800,
+        "timestamp": "2026-08-20 19:51:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "13 x 153",
+        "answer": 1989,
+        "timestamp": "2026-08-20 19:55:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "40 x 624",
+        "answer": 24960,
+        "timestamp": "2026-08-20 19:55:19"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "52 x 345",
+        "answer": 17940,
+        "timestamp": "2026-08-20 19:55:25"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "78 x 679",
+        "answer": 52962,
+        "timestamp": "2026-08-20 20:00:30"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "21 x 822",
+        "answer": 17262,
+        "timestamp": "2026-08-20 20:00:46"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "10 x 523",
+        "answer": 5230,
+        "timestamp": "2026-08-20 20:00:53"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "92 x 994",
+        "answer": 91448,
+        "timestamp": "2026-08-20 20:00:58"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "85 x 965",
+        "answer": 82025,
+        "timestamp": "2026-08-20 20:01:06"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "24 x 380",
+        "answer": 9120,
+        "timestamp": "2026-08-20 20:01:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 192",
+        "answer": 13632,
+        "timestamp": "2026-08-20 20:01:59"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "64 x 306",
+        "answer": 19584,
+        "timestamp": "2026-08-20 20:02:05"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "25 x 998",
+        "answer": 24950,
+        "timestamp": "2026-08-20 20:02:11"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "39 x 197",
+        "answer": 7683,
+        "timestamp": "2026-08-20 20:02:18"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "55 x 185",
+        "answer": 10175,
+        "timestamp": "2026-08-20 20:02:26"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "86 x 870",
+        "answer": 74820,
+        "timestamp": "2026-08-20 20:02:31"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "82 x 900",
+        "answer": 73800,
+        "timestamp": "2026-08-20 20:02:36"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "26 x 570",
+        "answer": 14820,
+        "timestamp": "2026-08-20 20:02:40"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "14 x 993",
+        "answer": 13902,
+        "timestamp": "2026-08-20 20:02:45"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "26 x 770",
+        "answer": 20020,
+        "timestamp": "2026-08-20 20:02:50"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "30 x 673",
+        "answer": 20190,
+        "timestamp": "2026-08-20 20:02:55"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "20 x 157",
+        "answer": 3140,
+        "timestamp": "2026-08-20 20:03:00"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "70 x 705",
+        "answer": 49350,
+        "timestamp": "2026-08-20 20:03:03"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "52 x 696",
+        "answer": 36192,
+        "timestamp": "2026-08-20 20:03:07"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "98 x 342",
+        "answer": 33516,
+        "timestamp": "2026-08-20 20:03:13"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "37 x 924",
+        "answer": 34188,
+        "timestamp": "2026-08-20 20:03:20"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "38 x 629",
+        "answer": 23902,
+        "timestamp": "2026-08-20 20:03:26"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "88 x 438",
+        "answer": 38544,
+        "timestamp": "2026-08-20 20:03:32"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "71 x 472",
+        "answer": 33512,
+        "timestamp": "2026-08-20 20:03:38"
+    },
+    {
+        "mode": "Multiplication",
+        "question": "19 x 949",
+        "answer": 18031,
+        "timestamp": "2026-08-20 20:03:44"
+    }
+]

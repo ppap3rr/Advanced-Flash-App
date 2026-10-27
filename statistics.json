@@ -1,0 +1,147 @@
+{
+    "2x3 Multiplication": {
+        "questions": 280,
+        "correct": 239,
+        "total_time": 1160.2699999999998
+    },
+    "3x1 Multiplication": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "3x2 Multiplication": {
+        "questions": 104,
+        "correct": 98,
+        "total_time": 390.511
+    },
+    "4x2 Multiplication": {
+        "questions": 51,
+        "correct": 43,
+        "total_time": 307.5450000000001
+    },
+    "3x3 Multiplication": {
+        "questions": 161,
+        "correct": 129,
+        "total_time": 1019.2109999999993
+    },
+    "4x3 Multiplication": {
+        "questions": 153,
+        "correct": 103,
+        "total_time": 1542.5469999999998
+    },
+    "3x4 Multiplication": {
+        "questions": 141,
+        "correct": 105,
+        "total_time": 1397.73
+    },
+    "2x2 Multiplication": {
+        "questions": 78,
+        "correct": 75,
+        "total_time": 209.96300000000005
+    },
+    "5x3 Multiplication": {
+        "questions": 143,
+        "correct": 54,
+        "total_time": 1712.0029999999997
+    },
+    "4x4 Multiplication": {
+        "questions": 36,
+        "correct": 11,
+        "total_time": 482.3290000000001
+    },
+    "1x1 Multiplication": {
+        "questions": 106,
+        "correct": 103,
+        "total_time": 97.36099999999999
+    },
+    "2x1 Multiplication": {
+        "questions": 22,
+        "correct": 18,
+        "total_time": 37.282
+    },
+    "3/1 Division": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "4/1 Division": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "4/2 Division": {
+        "questions": 167,
+        "correct": 140,
+        "total_time": 563.969
+    },
+    "5/2 Division": {
+        "questions": 168,
+        "correct": 143,
+        "total_time": 648.959
+    },
+    "5/3 Division": {
+        "questions": 157,
+        "correct": 135,
+        "total_time": 333.7899999999998
+    },
+    "6/3 Division": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "6/4 Division": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "2 Squares": {
+        "questions": 256,
+        "correct": 241,
+        "total_time": 644.2059999999997
+    },
+    "3 Squares": {
+        "questions": 21,
+        "correct": 16,
+        "total_time": 141.197
+    },
+    "2-2 Difference of Squares": {
+        "questions": 53,
+        "correct": 48,
+        "total_time": 332.055
+    },
+    "3/4 Square Roots": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "5/6 Square Roots": {
+        "questions": 89,
+        "correct": 76,
+        "total_time": 443.85600000000005
+    },
+    "7/8 Square Roots": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "9/10 Square Roots": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "4/5/6 Cube Roots": {
+        "questions": 80,
+        "correct": 76,
+        "total_time": 403.05099999999993
+    },
+    "7/8/9 Cube Roots": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    },
+    "10/11/12 Cube Roots": {
+        "questions": 0,
+        "correct": 0,
+        "total_time": 0
+    }
+}
