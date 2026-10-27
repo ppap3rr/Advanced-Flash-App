@@ -1,19 +1,37 @@
+
 # -*- mode: python ; coding: utf-8 -*-
 
+from PyInstaller.utils.hooks import collect_submodules
 
 a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[('model.pkl', '.'), ('scaler.pkl', '.'), ('training_columns.pkl', '.'), ('play_icon.png', '.'), ('stop_icon.png', '.'), ('gear_image.png', '.'), ('history_icon.png', '.'), ('progress_icon1.png', '.')],
-    hiddenimports=[],
+    datas=[
+        ('model.pkl', '.'),
+        ('scaler.pkl', '.'),
+        ('training_columns.pkl', '.'),
+        ('play_icon.png', '.'),
+        ('stop_icon.png', '.'),
+        ('gear_image.png', '.'),
+        ('history_icon.png', '.'),
+        ('progress_icon1.png', '.')
+    ],
+    hiddenimports=collect_submodules('sklearn'),
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
-    excludes=[],
+    excludes=[
+        'torch',
+        'torchvision',
+        'torchaudio',
+        'transformers',
+        'tensorflow',
+    ],
     noarchive=False,
     optimize=0,
 )
+
 pyz = PYZ(a.pure)
 
 exe = EXE(
