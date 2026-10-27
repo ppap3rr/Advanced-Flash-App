@@ -29,14 +29,13 @@ Start icon: https://www.iconsdb.com/green-icons/play-icon.html
 History icon: https://icones.pro/en/history-history-icon-png-symbol-blue/
 Progress icon: https://icons8.com/icon/nqb0Et2diOFc/tasks
 
-
+Unfinished extensions: 
+MAKE ANOTHER, SMALLER VERSION WITHOUT ML TO DECREASE THE EXE FILE SIZE
  - (Small but time consuming) Guides on techniques for division, how to do square roots, cube roots, squares, and difference of squares
  - (Small) How to use the app (especially keybinds)
 TODO (Small) Proper error checking
 TODO Save settings while using the app and when close 
 TODO Continually delete past history + clear history button
-
-
 TODO (Big) User Login (username / password) 
  - (Small) Delete older questions 
  - (Big) Leaderboard based on time and accuracy (Must be random questions and at least 20+ questions completed) 
